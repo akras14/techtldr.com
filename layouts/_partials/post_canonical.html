@@ -1,0 +1,12 @@
+{{- /* Overrides PaperMod's canonical-link slot (single posts only) with the source attribution. */ -}}
+{{- with .Params.source }}
+{{- $url := urls.Parse . }}
+<div class="tldr-source">
+  AI summary of
+  <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Params.source_title | default $.Title }}</a>
+  {{- with $.Params.source_author }} by {{ . }}{{ end }}
+  {{- with $.Params.source_site | default $url.Host }} · {{ . }}{{ end }}
+  {{- with $.Params.source_date }} · {{ time.Format "Jan 2, 2006" . }}{{ end }}.
+  <a href="{{ . }}" target="_blank" rel="noopener">Read the original →</a>
+</div>
+{{- end }}

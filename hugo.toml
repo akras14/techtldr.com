@@ -1,0 +1,51 @@
+baseURL = "https://techtldr.com/"
+locale = "en-us"
+title = "Tech TLDR;"
+enableRobotsTXT = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
+
+# Posts live at the site root: techtldr.com/<slug>/
+# Any other path falls through to layouts/404.html, which redirects to alexkras.com.
+[permalinks]
+  posts = "/:slug/"
+
+[pagination]
+  pagerSize = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # JSON powers the search page
+
+[params]
+  description = "AI summaries of articles worth knowing about."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  disableShare = true
+
+  [params.homeInfoParams]
+    Title = "Tech TLDR;"
+    Content = "AI-generated summaries of articles I found interesting. Bottom line first. Every post links to the original."
+
+  [params.footer]
+    text = "Summaries are AI-generated from the linked originals. Author and want one taken down? [Open an issue](https://github.com/akras14/techtldr.com/issues/new?title=Removal+request) and it will be removed."
+
+  [params.fuseOpts]
+    keys = ["title", "summary", "content"]
+
+[menu]
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 10
+  [[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 20
+
+[markup.goldmark.renderer]
+  unsafe = false

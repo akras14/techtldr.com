@@ -1,0 +1,19 @@
+{{- define "main" }}
+{{- /*
+  techtldr.com used to 301 every path to alexkras.com. GitHub Pages serves this page for
+  any path that isn't a post here, so we keep old links alive by forwarding them.
+  Only on the real domain, so previews on *.github.io show a normal 404.
+*/ -}}
+<script>
+  (function () {
+    var h = location.hostname;
+    if (h === "techtldr.com" || h === "www.techtldr.com") {
+      location.replace("https://alexkras.com" + location.pathname + location.search + location.hash);
+    }
+  })();
+</script>
+<div class="not-found">404</div>
+<p style="text-align:center">
+  Looking for an older post? Try <a href="https://alexkras.com/">alexkras.com</a>.
+</p>
+{{- end }}
