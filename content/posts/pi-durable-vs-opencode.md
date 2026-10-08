@@ -55,3 +55,27 @@ Before a tool runs, Pi stores the call as a task, so after a crash it knows whet
 ## Where this leads
 
 The author compares it to an operating system: a process exists whether or not it's currently on the CPU, and the scheduler decides what runs. Pi Durable doesn't preempt tasks the way an OS does (yet), but breaking agent work into small durable tasks makes **scheduling a central part of harness design**, not an afterthought.
+
+## Beyond the article
+
+*This section is added context from other sources, not part of Rosen's piece.*
+
+**What Pi Durable is.** Earendil shipped it on October 1 as an experimental package next to Pi 1.0 ([announcement](https://earendil.com/posts/pi-durable/)). It's a framework for building any agent app, not a replacement for the Pi coding agent. A few details from the announcement:
+- **Small:** about 15,000 lines of TypeScript, so an agent can read the whole thing.
+- **Pluggable storage:** in-memory, SQLite, or JSONL. It can run on Bun or inside a Cloudflare Durable Object. One process owns a storage at a time.
+- **No double submissions:** a `requestId` makes each submission exactly-once, so a client that retries after a crash gets the original back.
+- **Hot-swappable code:** extensions can be replaced while conversations are running.
+- **Multiplayer:** several clients can watch and steer the same conversation.
+
+**The question the replies kept asking.** Several readers pointed out a gap in point 6. Handing an interrupted call back to the model just moves the replay decision to the model, and one reply says that in crash tests the model simply called the same tool again. The suggested fix is to use the stored task ID as an idempotency key for the external API. Pi's own announcement already shows this pattern: its payment example passes the task ID to the bank as the charge key, so a rerun after a crash can't charge the card twice. **Takeaway:** declaring a tool non-replayable isn't enough for real side effects. The tool itself has to be idempotent.
+
+Two other replies raised points the article doesn't cover:
+- **Permissions:** resuming a task also resumes whatever access it held. Recovery checks what work is left, but not whether the task should still be allowed to do it.
+- **Versioning:** stored checkpoints have to stay compatible as the code changes. Pi's task and document definitions carry a version number, but the announcement doesn't describe migrations.
+
+**OpenCode is moving in this direction.** Its [v2 session spec](https://github.com/anomalyco/opencode/blob/dev/specs/v2/session.md) adds:
+- a durable inbox for prompts,
+- a replayable event log that clients can reconnect to,
+- recording tools that were mid-run during a crash as failed, so they're never silently re-run.
+
+But work in progress is still held in process memory, and resuming after a crash is explicitly postponed to a future version. So Rosen's comparison holds today, but the gap is narrowing.
