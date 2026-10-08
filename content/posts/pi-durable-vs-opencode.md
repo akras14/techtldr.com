@@ -24,7 +24,7 @@ The author uses OpenCode as the stand-in for the typical session-based design, b
 
 In OpenCode, each session's loop drives the work: call the model, run the tools, repeat. In Pi Durable, a **scheduler reads the stored task state** and decides what can run next. Model responses create tool tasks, tasks can wait on other tasks, and finishing one unblocks the next.
 
-Work is no longer tied to the process that started it. It can survive a laptop going to sleep, a container being redeployed, or a machine running out of memory.
+Work no longer depends on whichever process kicked it off. It can survive a laptop going to sleep, a container being redeployed, or a machine running out of memory.
 
 ## 3. Application state alongside the conversation
 
