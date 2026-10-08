@@ -40,9 +40,9 @@ Short kebab-case from the title, 3–6 words, no stop-word clutter (e.g. `postgr
 It must not collide with:
 - an existing file in `content/posts/`
 - site paths: `search`, `archives`, `posts`, `tags`, `categories`, `page`, `index.xml`
-- **an old alexkras.com URL.** techtldr.com forwards unknown paths to alexkras.com, so a post with the same slug would hijack old links. Check with
-  `curl -s -o /dev/null -w '%{http_code}' https://alexkras.com/<slug>/`.
-  Anything other than `404` means taken → append `-tldr`. If the check can't run (no network), tell the user you couldn't verify it.
+- **an old alexkras.com URL.** techtldr.com forwards unknown paths to alexkras.com, so a post with the same slug would hijack old links. Check the sitemap:
+  `curl -s https://alexkras.com/sitemap.xml | grep -q "alexkras.com/<slug>/<" && echo taken`.
+  Taken → append `-tldr`. Don't probe `https://alexkras.com/<slug>/` directly: alexkras.com 301s every unknown path to its home page, so status codes can't tell real posts from missing ones. If the sitemap can't be fetched (no network), tell the user you couldn't verify it.
 
 ## 5. Write the file
 
@@ -52,7 +52,7 @@ It must not collide with:
 ---
 title: "<headline for the summary — usually the article title>"
 slug: "<slug>"
-date: <now, ISO 8601 with timezone>
+date: <current time from `date +%Y-%m-%dT%H:%M:%S%z`, never later — Hugo silently skips future-dated posts>
 summary: "<the bottom-line paragraph, plain text, quotes escaped>"
 source: "<article URL>"
 source_title: "<original article title>"
