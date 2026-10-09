@@ -1,0 +1,6 @@
+50017357 posted programming-isnt-special
+50020947 posted why-are-coding-agents-so-dumb
+50015074 posted reducing-undefined-behavior-in-c
+50015515 skipped long keyboard reference, not summarized
+50019451 skipped page blocked/empty
+50020014 skipped funding announcement, fetch failed
