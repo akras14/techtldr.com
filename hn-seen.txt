@@ -113,3 +113,6 @@
 50028162 posted strong-coupling-lattice-qcd
 50036119 skipped wikipedia page
 50033357 posted unikernels-were-hard
+50027257 posted epoch-innovationeval
+50036390 skipped off-topic entertainment
+50029896 skipped vague Ask-style opinion
