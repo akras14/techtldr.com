@@ -16,7 +16,7 @@ hn_url: "https://news.ycombinator.com/item?id=50028059"
 
 - **xz:** one regular contributor, Lasse Collin, who wrote 97% of its 2025 changes. The analysis found no new funding after the 2024 backdoor.
 - **Time zone database:** Paul Eggert (UCLA) made 218 of 251 changes, with Tim Parenti as backup. Android, iOS and most servers read this file.
-- **sudo:** Todd Miller made 5,408 of 5,409 changes from 2008 to 2018. After he publicly asked for a sponsor in February 2026, funding rose to roughly 1,700 a year plus 30 GitHub sponsors, making it the best-funded one-person project on the list.
+- **sudo:** Todd Miller made 5,408 of 5,409 changes from 2008 to 2018. After he publicly asked for a sponsor in February 2026, its Open Collective budget rose to about $61,700 a year plus 30 GitHub sponsors, making it the best-funded one-person project on the list.
 - **bash:** Chet Ramey, alongside a university day job, with his name on every change in the public history.
 - **core-js:** raised about $57 a month in donations; its author wrote 95% of this year's changes.
 - **zlib, libjpeg-turbo, HarfBuzz, SQLite:** tiny teams behind code on billions of devices. SQLite pays for its work by selling support.
@@ -30,3 +30,5 @@ Public funders mostly give to organizations that can apply and report, which fav
 ## Caveats and discussion
 
 "No public grant" is a narrow measure, and several maintainers have day jobs. In the r/linux thread, commenters were angry at companies that ship these libraries without paying, disagreed on whether distro patching reduces the risk of a lone upstream maintainer, and split on whether xz showed open review working or luck (it was caught by one engineer chasing slow SSH logins).
+
+**Also covered by:** [The people holding up the internet](https://sheets.works/data-viz/holding-up-the-internet) on sheets.works ([HN discussion](https://news.ycombinator.com/item?id=50002494)), an interactive data story built on the same 23-project count. It adds the human stories behind the numbers: an astrology software company sued the time zone database's maintainers in 2011, and dropped the case in 2012 after the EFF defended them; Lasse Collin wrote on the xz list in 2022 that long-term mental health issues had limited the work, as Jia Tan was gaining access and by 2023 made most changes; and core-js's Denis Pushkarev was jailed in 2020 while core-js downloads nearly doubled. It also checks which projects ship on an Android 16 image, iOS 26.2 and Windows, and publishes its data and scripts.

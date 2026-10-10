@@ -116,3 +116,16 @@
 50027257 posted epoch-innovationeval
 50036390 skipped off-topic entertainment
 50029896 skipped vague Ask-style opinion
+49949235 posted hard-budget-caps-default
+49978333 posted pi-codemode
+50000488 posted deepseek-4-1-flash-cheap
+49945933 posted agents-need-documentation
+49977177 posted polars-2
+50003796 posted juniors-must-write-the-code
+49980346 posted zotero-slow-formation
+49989684 posted forever-junior-skills
+49934784 posted supabase-acquires-turso
+49971921 posted example-com-redesign
+49948300 posted doom-in-sql
+50004790 posted opus-invisible-cities
+50002494 merged into open-source-one-or-two-maintainers
