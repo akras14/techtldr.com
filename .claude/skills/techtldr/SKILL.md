@@ -31,6 +31,7 @@ Turn an article into `content/posts/<slug>.md`, then publish it after the user a
    ---
    ```
    Leave out any `source_*` field you don't know. Don't guess.
+   For `source_date`, use only as much as the source gives: `"YYYY-MM-DD"`, or `"YYYY-MM"` or `"YYYY"` when the day or month isn't stated. Don't invent a day to fill the format.
 
 6. **Publish:** show the user the post and wait for approval. Then commit it and `git push origin HEAD:main`. If the user isn't around to review, open a PR instead.
 
