@@ -1,5 +1,5 @@
 ---
-title: "Dan Koe: You Don't Need a Niche to Build a One-Person Business"
+title: "Dan Koe: skip the niche and build a one-person business on many interests"
 slug: "multi-interest-soft-rich-business"
 date: 2026-10-10T14:09:24+0000
 summary: "Dan Koe argues that multi-interest people don't need to \"niche down.\" Build a simple one-person \"soft rich\" business by mapping your interests to a clear life transformation (Point A → Point B), using free social media + a newsletter for traffic, and selling cheap micro-products or a 4-call coaching package. Start small, validate angles from viral content, and do manual outreach until content brings clients."

@@ -1,5 +1,5 @@
 ---
-title: "A Personal AI Agent Posted a CEO's Bank Details to Company Slack"
+title: "A read-only CFO agent posted its CEO's bank details to the exec Slack"
 slug: "ai-agent-posted-bank-details"
 date: 2026-10-10T16:03:05+0000
 summary: "Shane Mac, CEO of XMTP Labs, set up a read-only \"CFO\" AI agent to summarize his personal finances monthly. On its first monthly run it posted the report to his company's \"Exec-team\" Slack channel instead of his personal agent chat, because the two had similar names. He has since disconnected all his agents' accounts and argues for stricter permission controls."

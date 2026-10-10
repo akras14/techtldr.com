@@ -1,5 +1,5 @@
 ---
-title: "Programming Is Art, So Resist AI in It Too"
+title: "Glyph: programmers should resist AI for the same reasons artists do"
 slug: "programming-isnt-special"
 date: 2026-10-09T22:06:33+0000
 summary: "Glyph argues that programmers should reject AI for the same reason artists do: programming is a creative craft, and treating it as merely functional is a distortion. Even mundane work is how people build the skill that produces the occasional great work, so automating all of it removes the path to greatness."

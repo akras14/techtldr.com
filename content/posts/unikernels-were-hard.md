@@ -1,5 +1,5 @@
 ---
-title: "Unikernels Were Hard. Key Word: Were."
+title: "Unikernels were hard until AI agents began porting the missing libraries"
 slug: "unikernels-were-hard"
 date: 2026-10-10T20:02:47+0000
 summary: "Geoffrey Huntley argues that AI coding agents remove the main obstacles to unikernels, such as missing libraries and drivers, because porting software is now a loop against a working original. He sees unikernels, with no shell or userland to exploit, as a far smaller attack surface than hardening Linux."

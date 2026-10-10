@@ -1,5 +1,5 @@
 ---
-title: "LLMs Relearn Telegraphese: One Instruction Cuts Machine-Read Output by Up to Half"
+title: "Telling an LLM to write telegraphese cuts its output 40-49%"
 slug: "llm-telegraphese-token-savings"
 date: 2026-10-07T23:40:00-07:00
 summary: "Telling a model to write \"telegraphese\" (no articles or filler, every fact and number kept) shrinks its output by roughly 40–49% on most models tested. Other models answer questions from those compressed notes at least as well as from plain English. That makes it close to free savings for text a model writes for another model: agent memory, scratchpads, handoffs. It doesn't apply when a human reads the output, or with models whose reasoning you can't turn off."

@@ -1,5 +1,5 @@
 ---
-title: "Put a price on breakthroughs: pre-registered acquisitions for AI neolabs"
+title: "Frontier labs should pre-announce acquisition prices for AI results"
 slug: "pre-registered-acquisitions"
 date: 2026-10-10T11:02:45+0000
 summary: "Alex Wang argues that AI \"neolabs\" are asked to deliver both a research breakthrough and a venture-scale business, which compounds two long shots. He proposes borrowing from pharma: frontier labs would announce acquisition prices for specific results in advance (\"pre-registered acquisitions\"), so neolabs can focus on research and investors have a known buyer."

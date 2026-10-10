@@ -1,5 +1,5 @@
 ---
-title: "Reducing Undefined Behavior in C"
+title: "C2y has removed 45 of about 100 undefined-behavior cases"
 slug: "reducing-undefined-behavior-in-c"
 date: 2026-10-09T22:06:33+0000
 summary: "At Kernel Recipes, Martin Uecker said C's undefined behavior is steadily shrinking: C23 banned compiler 'time travel' and C2y has removed 45 of roughly 100 undefined-behavior cases. Better warnings, analyzers and sanitizers help too, but full memory safety will need runtime checking or formal verification."

@@ -1,5 +1,5 @@
 ---
-title: "Kotlin Keeps Up With Rust"
+title: "Campfire ported from Rust to Kotlin in a day; the JVM keeps pace"
 slug: "kotlin-keeps-up-with-rust"
 date: 2026-10-09T22:09:25+0000
 summary: "The author ported the Rust version of 37signals' Campfire to Kotlin in about a day with Claude Code, byte-for-byte identical in output. On Hetzner x86 servers the JVM build matched or beat Rust on the room page at most connection counts, though Rust still wins on memory, startup and tail latency after warmup. The author argues DHH's benchmark table mostly reflects how much optimization attention each port received."

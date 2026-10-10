@@ -1,5 +1,5 @@
 ---
-title: "Can You Use Autoregressive Diffusion to Generate Market Data?"
+title: "A Jane Street intern's autoregressive diffusion model of order-book data"
 slug: "jane-street-market-data-diffusion"
 date: 2026-10-10T03:02:38+0000
 summary: "A Jane Street intern built an event-level autoregressive diffusion model of US equities order-book data. Fully continuous diffusion failed because market data is spiky and partly discrete; flow matching plus a technique called atom smoothing worked reasonably well, though the model isn't yet a realistic generator."

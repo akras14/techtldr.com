@@ -1,5 +1,5 @@
 ---
-title: "Satya Nadella: The Most Trustworthy AI Is the One That Lets Us Trust the Model Least"
+title: "Nadella: the best AI is the one that lets us trust the model least"
 slug: "trust-the-model-least"
 date: 2026-10-10T19:16:04+0000
 summary: "Nadella says Super Intelligence systems are untraceable black boxes (unlike traditional software where you can follow code paths), yet we are already giving them sensitive data and the ability to take real actions. We cannot outsource responsibility to model providers. The required response is an engineering trust architecture that separates the supply of intelligence from authority over it—wrapping non-deterministic models in deterministic controls, observability, containment, and independent verification. The most trustworthy system is the one that lets us trust the model the least."

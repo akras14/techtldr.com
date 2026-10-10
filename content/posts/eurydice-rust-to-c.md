@@ -1,5 +1,5 @@
 ---
-title: "Compiling Rust to Readable C with Eurydice"
+title: "Eurydice compiles Rust to readable C, but only small programs so far"
 slug: "eurydice-rust-to-c"
 date: 2026-10-10T03:02:38+0000
 summary: "Eurydice is a new compiler that turns Rust into structure-preserving C, aimed at high-assurance projects whose verification and compliance tools only understand C. LWN's Daroc Alden finds it works well on small, self-contained programs but doesn't yet scale, mostly because its Charon front end chokes on newer Rust features."

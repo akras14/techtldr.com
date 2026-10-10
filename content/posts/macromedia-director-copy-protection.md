@@ -1,5 +1,5 @@
 ---
-title: "Getting old Macromedia Director games to run on modern hardware"
+title: "Reviving a Macromedia Director game by defeating three copy protections"
 slug: "macromedia-director-copy-protection"
 date: 2026-10-10T13:02:49+0000
 summary: "WerWolv got a 2000s German CD-ROM game (Findus bei den Mucklas) running again by defeating three layers of copy protection: decoy files on the disc image, a CD-presence check in the embedded Director script, and a copy-protection DLL. The fixes were a one-instruction bytecode patch and a stub in the DLL."

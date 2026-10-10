@@ -1,5 +1,5 @@
 ---
-title: "Margaret Hamilton, Who Led Apollo's Flight Software, Dies at 90"
+title: "Margaret Hamilton, who led Apollo's flight software, dies at 90"
 slug: "margaret-hamilton-dies"
 date: 2026-10-07T23:20:00-07:00
 summary: "Margaret Hamilton, who led the MIT team that wrote the Apollo onboard flight software and helped make \"software engineering\" a recognized discipline, died on September 30 at 90. Her team's priority-driven design is why the Apollo 11 landing could continue through the famous 1202 alarm."

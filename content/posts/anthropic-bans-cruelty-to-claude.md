@@ -1,5 +1,5 @@
 ---
-title: "Anthropic Bans Users From Being 'Cruel' to Its AI"
+title: "Anthropic's new policy lets Claude end chats and ban users who abuse it"
 slug: "anthropic-bans-cruelty-to-claude"
 date: 2026-10-10T04:03:00+0000
 summary: "Anthropic has updated its usage policy so it can end conversations and ban users who show sustained, needless abuse toward Claude. It says this covers only extreme, repeated cases, but the move has split opinion over model welfare versus the harm of anthropomorphizing AI."

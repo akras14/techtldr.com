@@ -1,5 +1,5 @@
 ---
-title: "Anti-Patterns in Software Blogging"
+title: "Most developer blog posts fail in the first paragraph; here's the fix"
 slug: "software-blogging-anti-patterns"
 date: 2026-10-07T23:30:00-07:00
 summary: "Most developer blog posts fail in the first paragraph: they wander before telling readers who the post is for and what they'll get. Fix that in the title plus three sentences, then stop assuming readers share your background, stop outsourcing explanations to links, drop the stiff tone, and make sure the page reads well on a phone."

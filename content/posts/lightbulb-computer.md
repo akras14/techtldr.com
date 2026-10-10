@@ -1,5 +1,5 @@
 ---
-title: "The Lightbulb Computer: Projector-Based Ambient Computing"
+title: "The lightbulb computer: a projector that turns any surface into a screen"
 slug: "lightbulb-computer"
 date: 2026-10-10T16:03:05+0000
 summary: "Designer Guillaume Ardaud proposes a speculative device that pairs a projector with computer vision in a lightbulb form factor. It would project interactive information onto everyday surfaces instead of confining computing to phone screens or smart glasses. He built working but bulky prototypes, and says consumer hardware isn't quite ready yet."

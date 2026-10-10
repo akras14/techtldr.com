@@ -1,5 +1,5 @@
 ---
-title: "No Man Is an Island"
+title: "If AI writes the code and proofs, why would anyone publish their work?"
 slug: "no-man-is-an-island"
 date: 2026-10-09T23:02:44+0000
 summary: "Fernando Borretti argues that sustained private intellectual work depends on a community of other humans, and that AI dissolves those communities. If AI writes the code and the proofs, there is little reason left to publish code, essays or papers, and the shared body of work and the motivation that fuel solo effort dry up."

@@ -1,5 +1,5 @@
 ---
-title: "Stop Complaining About Enshittification. Use the Alternatives"
+title: "I ditched Google Search, Gmail, Chrome and Windows; it's often better"
 slug: "use-the-alternatives-enshittification"
 date: 2026-10-10T02:02:56+0000
 summary: "Developer Alexander Fortin argues that people who complain about enshittification should change their habits: he has replaced Google Search, Gmail, Chrome and Windows with alternatives and says the experience is often better. He doesn't claim all enshittification is avoidable, especially with AI being added to everything."

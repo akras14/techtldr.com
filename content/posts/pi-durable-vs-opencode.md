@@ -1,5 +1,5 @@
 ---
-title: "Pi Durable vs. OpenCode: Coding Agents as Durable, Scheduled Tasks"
+title: "Pi Durable runs coding agents as durable scheduled tasks, not sessions"
 slug: "pi-durable-vs-opencode"
 date: 2026-10-08T06:58:00-07:00
 summary: "Most coding harnesses (Claude Code, Codex, OpenCode) are a session plus an in-memory agent loop. Pi Durable instead stores every model call, tool call, and compaction as a durable task that a scheduler runs. Work survives crashes and can move between processes, and harnesses start to look more like operating-system schedulers."

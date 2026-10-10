@@ -1,5 +1,5 @@
 ---
-title: "11 of 23 Core Open Source Projects Run on One or Two People"
+title: "11 of 23 core open source projects have just one or two regular contributors"
 slug: "open-source-one-or-two-maintainers"
 date: 2026-10-10T02:02:56+0000
 summary: "A Reddit analysis of 23 foundational open source projects found that 11 had only one or two regular contributors (ten or more changes) in the year to 7 October 2026. Eight of the 23 show no grant or sponsorship in the public sources checked, and funding tends to arrive after disasters rather than before them."

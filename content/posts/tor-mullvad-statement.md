@@ -1,5 +1,5 @@
 ---
-title: "Tor Project Keeps Its Mullvad Collaboration, With Limits"
+title: "Tor keeps its Mullvad partnership but pauses joint promotion"
 slug: "tor-mullvad-statement"
 date: 2026-10-09T23:02:44+0000
 summary: "The Tor Project says it will not end its funding and technical relationship with Mullvad, despite community concerns about a political donation by a Mullvad co-founder. It is pausing joint promotion and rewording how it describes Mullvad Browser to avoid implying broader endorsement."

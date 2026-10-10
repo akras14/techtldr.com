@@ -1,5 +1,5 @@
 ---
-title: "Mistral Large 4: A 1T-Parameter Open-Weight Model Pitched on Cybersecurity and Sovereignty"
+title: "Mistral Large 4: 1T-parameter open-weight model aimed at cybersecurity"
 slug: "mistral-large-4"
 date: 2026-10-07T23:15:00-07:00
 summary: "Mistral released a preview of Mistral Large 4, a 1-trillion-parameter mixture-of-experts model (52B active) with open weights promised by the end of October. Its main pitch is cybersecurity: it scores at the top of tests that closed models refuse to attempt, and it can be self-hosted in Europe under your own policies."

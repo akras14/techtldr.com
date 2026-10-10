@@ -1,5 +1,5 @@
 ---
-title: "OTel-Native by Design: Building Products That Export to Any Observability Stack"
+title: "OpenTelemetry's advice for products: export over OTLP to any backend"
 slug: "otel-native-by-design"
 date: 2026-10-09T22:09:25+0000
 summary: "The OpenTelemetry project advises product builders to let users push logs, traces and metrics over OTLP to an endpoint of their choice, rather than offering only built-in dashboards or polling APIs. Self-hosted software should ship pre-instrumented with endpoint config, while platforms should offer configurable export destinations."

@@ -1,5 +1,5 @@
 ---
-title: "Bevy 0.20"
+title: "Bevy 0.20: Solari path tracing on macOS, simpler scenes, new UI widgets"
 slug: "bevy-0-20"
 date: 2026-10-09T22:09:25+0000
 summary: "Bevy 0.20, the Rust game engine, ships with a faster and more accurate Solari path tracer (now on macOS via Metal), reworked BSN scene syntax that drops most wrapper boilerplate, new editor-style UI widgets, official adoption of the WESL shader language, and custom sprite materials. The release came from 227 contributors and 817 pull requests."

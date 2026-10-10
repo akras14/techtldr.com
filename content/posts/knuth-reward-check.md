@@ -1,5 +1,5 @@
 ---
-title: "Finding an error on page 1 of a Knuth book"
+title: "I found an error in the first word of a Knuth book and got the check"
 slug: "knuth-reward-check"
 date: 2026-10-10T17:02:49+0000
 summary: "Thomas Huehn recounts earning a reward check from Donald Knuth twenty years ago for an error in the very first word of Computer Modern Typefaces, a book few readers get past. A second, mistaken report still earned a small check for a throwaway suggestion."

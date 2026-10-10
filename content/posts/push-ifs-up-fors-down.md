@@ -1,5 +1,5 @@
 ---
-title: "\"Push Ifs Up, Fors Down\": Why the Idiom Works, From Rust to SQL to Category Theory"
+title: "Why \"push ifs up, fors down\" works, from Rust and SQL to category theory"
 slug: "push-ifs-up-fors-down"
 date: 2026-10-07T23:25:00-07:00
 summary: "Put branching decisions in the caller and give hot loops branch-free, batched work. The same rule shows up as predicate pushdown in SQL planners and as a provable law in functional programming, and the math also tells you exactly when the rewrite is legal and when it actually saves work."

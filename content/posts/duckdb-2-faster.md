@@ -1,5 +1,5 @@
 ---
-title: "Why DuckDB 2.0 Is Faster"
+title: "DuckDB 2.0 alpha: S3 reads 2-3x faster, deep recursive CTEs far faster"
 slug: "duckdb-2-faster"
 date: 2026-10-10T20:02:47+0000
 summary: "In hands-on tests of the DuckDB 2.0 alpha on a laptop, Mehdi Ouazza finds big gains from three features: async I/O makes S3 Parquet reads 2-3x faster with no query changes, a rewritten recursive CTE engine cuts a 20,000-commit ancestry walk from up to 16 s to 0.1 s, and shredded VARIANT is 2.7x smaller than JSON text and about 6x faster on field queries."

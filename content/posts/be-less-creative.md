@@ -1,5 +1,5 @@
 ---
-title: "You Might Want to Try Being Less Creative"
+title: "Spend creativity only where it counts: a case for borrowing the rest"
 slug: "be-less-creative"
 date: 2026-10-09T23:02:44+0000
 summary: "Bryant Wolf says trying to be original everywhere kept him from finishing anything. After a songwriting jam where a friend borrowed freely from other songs and treated early drafts as disposable sketches, he concluded that you should spend creativity only where it counts and let the rest follow proven patterns."

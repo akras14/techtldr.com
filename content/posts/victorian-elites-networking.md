@@ -1,5 +1,5 @@
 ---
-title: "Why Were Victorian Elites So Effective? They Partied Like It Was Their Job"
+title: "Victorian elites ran an empire by partying: schools and balls as networking"
 slug: "victorian-elites-networking"
 date: 2026-10-07T23:50:00-07:00
 summary: "Victorian Britain's ruling class barely studied science, slept late, drank heavily, and spent half the year at balls, yet they ran what was for much of the century the world's richest country, along with a vast empire. Samuel Hughes argues their real work was building one tight-knit community through shared schooling and nonstop socializing. That community kept the elite united, and let it pay people in prestige instead of money."

@@ -1,5 +1,5 @@
 ---
-title: "Why Are Coding Agents So Dumb?"
+title: "Coding agents lag the models they wrap: tasks, planning, sandboxing"
 slug: "why-are-coding-agents-so-dumb"
 date: 2026-10-09T22:06:33+0000
 summary: "Michael Lynch argues that coding agents (the harnesses around the models, like Claude Code, Codex and OpenCode) lag far behind the models themselves. He lists basic gaps in task management, delegation, planning, sandboxing and self-knowledge, and guesses that vendors optimize for demos and benchmarks that measure models rather than agents."

@@ -1,5 +1,5 @@
 ---
-title: "Bitwarden moves its store apps to a commercial license"
+title: "Bitwarden's store apps go commercial; a GPLv3 build stays on GitHub"
 slug: "bitwarden-dual-license"
 date: 2026-10-10T15:02:23+0000
 summary: "Starting with its next release, the Bitwarden apps in the app stores (and the direct downloads on its site) will be commercially licensed builds, while a GPLv3 open-source version stays on GitHub. Bitwarden says it is not going closed-source, self-hosting and the free plan are unchanged, and the change targets those who repackage and resell Bitwarden. Community members worry about a slow drift away from open source."

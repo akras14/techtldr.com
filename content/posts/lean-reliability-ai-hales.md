@@ -1,5 +1,5 @@
 ---
-title: "What Mathematicians Should Know About Lean's Reliability in the Age of AI"
+title: "Hales: Lean works in practice, but its soundness has no public proof"
 slug: "lean-reliability-ai-hales"
 date: 2026-10-10T00:03:26+0000
 summary: "Thomas Hales argues that Lean, now the dominant proof assistant, is trustworthy in practice but not yet on firm theoretical footing. AI autoformalization became real in 2026, yet the kernel had a 'Summer of Soundness Bugs', and basic metatheory such as a full public consistency proof for Lean's type theory is still missing. He urges humans to audit what AI has produced."

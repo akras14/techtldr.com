@@ -1,5 +1,5 @@
 ---
-title: "AI Is Throwing a Roadside Picnic"
+title: "AI-made science as Roadside Picnic: answers now outrun understanding"
 slug: "ai-roadside-picnic"
 date: 2026-10-10T18:02:21+0000
 summary: "Mete Polat argues that AI-generated science resembles the alien leftovers in the novel Roadside Picnic: useful, abundant artifacts that humans can't keep up with or fully understand. Answers are starting to arrive faster than understanding, and the labs, not the aliens, still have a choice about how they hand discoveries to the scientific community."

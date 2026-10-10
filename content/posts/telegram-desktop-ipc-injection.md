@@ -1,5 +1,5 @@
 ---
-title: "Telegram Desktop one-click account takeover via IPC injection"
+title: "One click on a link can take over Telegram Desktop 7.2.8 and earlier"
 slug: "telegram-desktop-ipc-injection"
 date: 2026-10-10T05:02:38+0000
 summary: "A researcher found that Telegram Desktop (through 7.2.8) fails to escape the semicolon separator in the messages it passes between its own processes, so one clicked link can inject extra commands and, combined with a missing authorization check, read arbitrary files from the victim's disk and send them to the attacker. Stolen session files are enough to take over the account. It is fixed in 7.2.9 (CVE-2026-107181, CVSS 8.1)."

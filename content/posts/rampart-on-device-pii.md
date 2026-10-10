@@ -1,5 +1,5 @@
 ---
-title: "Rampart: in-browser PII redaction before you hit send"
+title: "Rampart redacts PII in the browser before chatbot messages leave"
 slug: "rampart-on-device-pii"
 date: 2026-10-10T17:02:49+0000
 summary: "The National Design Studio open-sourced Rampart, a 14.7 MB alpha-stage filter that runs entirely in the browser and redacts personal information from chatbot messages before they leave the device. It combines regex rules with a MiniLM model and reports 98.4% private-term recall on a 30,000-row test set."

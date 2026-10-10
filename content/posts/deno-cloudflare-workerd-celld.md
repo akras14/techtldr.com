@@ -1,5 +1,5 @@
 ---
-title: "Deno Is Joining Cloudflare"
+title: "Deno's celld, a self-hostable Workers runtime, is merging into workerd"
 slug: "deno-cloudflare-workerd-celld"
 date: 2026-10-10T00:03:26+0000
 summary: "The Deno team is joining Cloudflare to merge Deno's celld, a self-hostable Rust implementation of Workers and Durable Objects, into Cloudflare's open-source workerd runtime. The goal is to make self-hosting the Workers programming model a first-class option."

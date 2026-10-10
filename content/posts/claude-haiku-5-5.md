@@ -1,5 +1,5 @@
 ---
-title: "Claude Haiku 5.5: Anthropic's Small Model Gets Much Smarter and About 75% Cheaper"
+title: "Claude Haiku 5.5 is about 75% cheaper than 4.5 and scores far higher"
 slug: "claude-haiku-5-5"
 date: 2026-10-07T23:55:00-07:00
 summary: "Anthropic released Claude Haiku 5.5, a fast, cheap model for high-volume work like summaries, classification, subagents, and browser use. It costs about 75% less to run than Haiku 4.5 and scores far higher on benchmarks. Anthropic also halved Sonnet 5.5's cache-read price and added monthly API credits for Max and Team subscribers."

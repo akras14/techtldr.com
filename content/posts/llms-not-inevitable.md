@@ -1,5 +1,5 @@
 ---
-title: "There's little that's \"inevitable\" about AI"
+title: "Why LLMs aren't inevitable: closer to chemical weapons than electricity"
 slug: "llms-not-inevitable"
 date: 2026-10-10T13:02:49+0000
 summary: "Iris Meredith argues that LLMs fail the test for a truly inevitable technology. They are about as inevitable as chemical weapons: useful to weak players, marginal for serious ones, and easy to neutralise. Adoption will continue for contingent reasons, but nobody is forced to use them."

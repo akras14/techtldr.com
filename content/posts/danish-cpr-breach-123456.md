@@ -1,5 +1,5 @@
 ---
-title: "Danish CPR register breached via a vendor account with password '123456'"
+title: "Denmark's CPR register was breached via a vendor password: 123456"
 slug: "danish-cpr-breach-123456"
 date: 2026-10-10T11:02:45+0000
 summary: "Hackers reached Denmark's central civil registration (CPR) database through a tiny Funen-based IT firm, Pays ApS, whose accounts, including the administrator account, reportedly used the password \"123456\". The breach exposed data tied to about 8.8 million CPR numbers, and the attacker had access for roughly 21 days."

@@ -1,5 +1,5 @@
 ---
-title: "How Machines Learned Precision: From a Shilling's Thickness to a Millionth of an Inch"
+title: "How British workshops learned to measure a millionth of an inch"
 slug: "how-machines-learned-precision"
 date: 2026-10-07T23:35:00-07:00
 summary: "Between the 1770s and the 1850s, British workshops went from struggling to bore a round cylinder to detecting a millionth of an inch. They got there by bootstrapping: building accurate references (flat plates, true screws, standard bars) out of inaccurate parts, then using machines to copy that accuracy into more machines."

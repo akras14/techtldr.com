@@ -1,5 +1,5 @@
 ---
-title: "Prime Intellect Had Its Coding Agent Rewrite Itself in Rust"
+title: "2,000 agents rewrote Prime Agent in Rust; cold start fell to 52 ms"
 slug: "prime-agent-rust-rewrite"
 date: 2026-10-10T02:02:56+0000
 summary: "Prime Intellect says Prime Agent orchestrated a swarm of more than 2,000 agents over two weeks to rewrite itself from TypeScript to Rust, using differential parity tests as the objective check. A follow-up benchmark-driven optimization loop cut cold-start latency from 736 ms to 52 ms and memory use by about 4.8x."

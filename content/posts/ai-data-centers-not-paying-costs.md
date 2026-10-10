@@ -1,5 +1,5 @@
 ---
-title: "Senate Report: AI Data Centers Aren't Paying Their Full Costs"
+title: "Senators: data centers don't cover the costs they push onto ratepayers"
 slug: "ai-data-centers-not-paying-costs"
 date: 2026-10-10T16:03:05+0000
 summary: "A 27-page report from Senators Warren, Van Hollen and Blumenthal, based on a yearlong investigation, concludes that Big Tech data center operators don't cover the full costs they impose on ratepayers, routinely use NDAs to limit public scrutiny, and keep seeking large tax breaks without showing clear job benefits."

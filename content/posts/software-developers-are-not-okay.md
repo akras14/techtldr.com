@@ -1,5 +1,5 @@
 ---
-title: "Software Developers Are Not Okay"
+title: "Developers are burning out, and Bjarnason blames executives more than AI"
 slug: "software-developers-are-not-okay"
 date: 2026-10-10T16:03:05+0000
 summary: "Baldur Bjarnason argues that developers and UX designers are burning out and leaving tech, and that the cause is executive incentives rather than AI alone. Layoffs, delegation-style AI tooling and constant precarity weaken labour's bargaining position, and he expects this to persist even after the AI bubble pops. He suggests developers consider a future outside the industry."

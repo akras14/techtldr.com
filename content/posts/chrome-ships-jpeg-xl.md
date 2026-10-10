@@ -1,5 +1,5 @@
 ---
-title: "Chrome Ships JPEG XL, Decoded by a Memory-Safe Rust Library"
+title: "Chrome 155 ships JPEG XL, decoded by a Rust library instead of C++"
 slug: "chrome-ships-jpeg-xl"
 date: 2026-10-07T23:10:00-07:00
 summary: "Chrome 155 adds native JPEG XL decoding. Google rebuilt the decoder in Rust (jxl-rs) so a new image format doesn't mean a new memory-safety attack surface, and says it got there without giving up speed. The deciding factor was years of steady developer demand through the Interop process."

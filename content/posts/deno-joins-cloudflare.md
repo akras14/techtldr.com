@@ -1,5 +1,5 @@
 ---
-title: "Deno Is Joining Cloudflare"
+title: "Deno's team joins Cloudflare: Deno Deploy shuts down in six months"
 slug: "deno-joins-cloudflare"
 date: 2026-10-09T22:09:25+0000
 summary: "Ryan Dahl announces that the whole Deno team is joining Cloudflare and will put future work into a shared Workers-based platform instead of a separate runtime and host. Deno gets one more year of monthly bug-fix and security releases, then development ends; Deno Deploy shuts down in six months."

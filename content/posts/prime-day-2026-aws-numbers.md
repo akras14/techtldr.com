@@ -1,5 +1,5 @@
 ---
-title: "Prime Day 2026 by the Numbers: What It Took to Run on AWS"
+title: "Prime Day 2026: 192M DynamoDB requests/s, 44,000 fault-injection tests"
 slug: "prime-day-2026-aws-numbers"
 date: 2026-10-07T23:45:00-07:00
 summary: "AWS's annual Prime Day stats post shows the four-day sale running at enormous scale: DynamoDB peaked at 192M requests per second, Lambda handled over 2.3T invocations a day, and Graviton chips ran up to 49% of Amazon.com's EC2 compute. The most interesting number: Amazon ran 44,000+ fault-injection experiments beforehand, over six times as many as the year before."
