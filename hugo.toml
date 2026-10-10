@@ -26,10 +26,8 @@ enableRobotsTXT = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   disableShare = true
+  tagline = "AI summaries of articles I found interesting. Bottom line first."
 
-  [params.homeInfoParams]
-    Title = "Tech TLDR;"
-    Content = "AI-generated summaries of articles I found interesting. Bottom line first. Every post links to the original."
 
   [params.footer]
     text = "Summaries are AI-generated from the linked originals. Author and want one taken down? [Open an issue](https://github.com/akras14/techtldr.com/issues/new?title=Removal+request) and it will be removed."

@@ -9,4 +9,26 @@
     line-height: 1.5;
   }
   .tldr-source a { text-decoration: underline; }
+  .logo { flex-wrap: wrap; align-items: center; }
+  .tldr-tagline {
+    font-size: 14px;
+    color: var(--secondary);
+    margin-inline-start: 12px;
+    order: 3;
+    line-height: 1.4;
+  }
+  @media (max-width: 600px) {
+    .tldr-tagline { flex-basis: 100%; margin: 0 0 8px; }
+  }
+  /* No hero: keep the newest post the same size as the rest. */
+  .first-entry {
+    min-height: 0;
+    margin: 0 0 var(--gap);
+    padding: var(--gap);
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  .first-entry .entry-header h2 { font-size: 24px; line-height: 1.3; }
+  .first-entry .entry-content { font-size: 14px; }
 </style>
