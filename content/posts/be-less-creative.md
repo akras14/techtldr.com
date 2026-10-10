@@ -8,6 +8,7 @@ source_title: "You Might Want to Try Being Less Creative"
 source_author: "Bryant Wolf"
 source_site: "blog.bawolf.com"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50024927"
 ---
 Wolf never finished a song as a teenager because he refused to use choices other people had made, fearing it would make the song less his own. At a jam session with a musician friend, Jon, he saw a different method.
 

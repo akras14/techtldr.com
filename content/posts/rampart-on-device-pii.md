@@ -8,6 +8,7 @@ source_title: "Introducing Rampart"
 source_author: "Tai Groot & Edward Coristine"
 source_site: "National Design Studio"
 source_date: "2026-06-22"
+hn_url: "https://news.ycombinator.com/item?id=50024242"
 ---
 
 **Bottom line:** Rampart is an open-source, on-device PII filter from the National Design Studio. It runs in the browser, with no server involved, and strips personal information from a message before it is sent to a chatbot. The authors call it an alpha and a first line of defense, not a complete solution.

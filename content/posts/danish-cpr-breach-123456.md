@@ -7,6 +7,7 @@ source: "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-mas
 source_title: "'123456' password used in massive Danish CPR data breach"
 source_site: "The Copenhagen Post"
 source_date: "2026-10-10"
+hn_url: "https://news.ycombinator.com/item?id=50031269"
 ---
 
 **Bottom line:** Hackers reached Denmark's central civil registration (CPR) database through a tiny Funen-based IT firm, Pays ApS, whose accounts, including the administrator account, reportedly used the password "123456". The breach exposed data tied to about 8.8 million CPR numbers, and the attacker had access for roughly 21 days.

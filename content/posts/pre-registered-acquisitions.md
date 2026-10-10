@@ -7,6 +7,7 @@ source: "https://alexwang.ai/posts/put-a-price-on-breakthroughs/"
 source_title: "Put a price on breakthroughs"
 source_author: "Alex Wang"
 source_site: "alexwang.ai"
+hn_url: "https://news.ycombinator.com/item?id=50028982"
 ---
 
 **Bottom line:** Alex Wang argues that AI "neolabs" are asked to deliver both a research breakthrough and a venture-scale business, which compounds two long shots. He proposes borrowing from pharma: frontier labs would announce acquisition prices for specific results in advance ("pre-registered acquisitions"), so neolabs can focus on research and investors have a known buyer.

@@ -8,6 +8,7 @@ source_title: "Reducing undefined behavior in the C language"
 source_author: "Jonathan Corbet"
 source_site: "LWN.net"
 source_date: "2026-09-28"
+hn_url: "https://news.ycombinator.com/item?id=50015074"
 ---
 Uecker, a biomedical engineering professor and C standards participant, argues C is still worth using in 2026: it is portable, stable, fast to compile, and its output is predictable. Its weak spot is undefined behavior (UB), a legacy of the C89 abstract-machine model, which let compilers assume UB never happens.
 

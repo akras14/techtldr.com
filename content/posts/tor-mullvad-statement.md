@@ -8,6 +8,7 @@ source_title: "A statement on the Tor Project's relationship with Mullvad"
 source_author: "isabela"
 source_site: "blog.torproject.org"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50022266"
 ---
 Community members asked how working with Mullvad fits Tor's human rights mission after a Mullvad co-founder's political donation. Tor says it reached its decision after due diligence: discussions with community, staff and board, a staff survey, and financial analysis and scenario planning. The post does not describe the donation itself.
 

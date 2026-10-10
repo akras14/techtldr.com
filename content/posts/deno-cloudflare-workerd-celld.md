@@ -7,6 +7,7 @@ source: "https://blog.cloudflare.com/deno-joins-cloudflare/"
 source_title: "Deno is joining Cloudflare"
 source_author: "Ryan Dahl and Kenton Varda"
 source_site: "Cloudflare Blog"
+hn_url: "https://news.ycombinator.com/item?id=50019858"
 ---
 
 **Bottom line:** The Deno team is joining Cloudflare. They will merge their self-hosting project celld into Cloudflare's open-source workerd, with Ryan Dahl and Bert Belder leading an effort to make self-hosting Workers and Durable Objects a first-class option.

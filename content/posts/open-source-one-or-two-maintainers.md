@@ -7,6 +7,7 @@ source: "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2
 source_title: "11 of 23 Core Open Source Projects Run on 1 or 2 People"
 source_site: "Linuxstans"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50028059"
 ---
 
 **Bottom line:** A Reddit user (u/Mastbubbles) pulled the full history of 23 projects that phones, browsers and servers depend on and counted everyone with ten or more changes between 7 October 2025 and 7 October 2026. In 11 of the 23, that was one or two people. Eight projects show no grant or sponsorship from the Sovereign Tech Agency, Alpha-Omega, Open Collective or GitHub Sponsors, though that is a narrow test and doesn't mean nobody has ever paid these people.

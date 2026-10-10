@@ -8,6 +8,7 @@ source_title: "Anthropic bans users from being 'cruel' to its AI systems"
 source_author: "Liv McMahon"
 source_site: "BBC News"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50019860"
 ---
 Anthropic added "sustained and needless" cruelty toward its AI to the list of forbidden conduct in its usage policy, next to bullying others, promoting self-harm and creating non-consensual intimate imagery. The company says its tools could already end interactions in "rare" cases, and the policy only targets extreme, repeated abuse.
 

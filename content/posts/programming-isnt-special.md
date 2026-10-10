@@ -8,6 +8,7 @@ source_title: "Programming Isn't Special"
 source_author: "Glyph"
 source_site: "Deciphering Glyph"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50017357"
 ---
 Writers, musicians and visual artists have largely organized against generative AI, yet many experienced programmers accept it, often on the grounds that code is functional rather than art. Glyph says that premise is wrong: programming is art, and the same case against AI applies.
 

@@ -8,6 +8,7 @@ source_title: "Can you use autoregressive diffusion to generate market data?"
 source_author: "James Somers"
 source_site: "Jane Street Blog"
 source_date: "2026-09-30"
+hn_url: "https://news.ycombinator.com/item?id=50021410"
 ---
 Summer intern Kavish trained a model on four years of US equities events (trades, order book best-bid/offer changes and so on) to generate the next event, appended autoregressively. The design is a causally masked transformer encoder, a small head predicting event kind, and a diffusion head for continuous targets like price and elapsed time.
 

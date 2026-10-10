@@ -8,6 +8,7 @@ source_title: "What mathematicians should know about the Lean Theorem Prover: qu
 source_author: "Thomas Hales (guest post on Terence Tao's blog)"
 source_site: "What's new"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50024090"
 ---
 
 **Bottom line:** Thomas Hales argues that Lean is reliable enough for practical use, but its theoretical foundations are weaker than mathematicians assume, and as AI takes over more of the foundational work, humans need to audit it.

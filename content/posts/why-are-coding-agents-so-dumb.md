@@ -7,6 +7,7 @@ source: "https://mtlynch.io/why-are-coding-agents-so-dumb/"
 source_title: "Why Are Coding Agents So Dumb?"
 source_author: "Michael Lynch"
 source_site: "mtlynch.io"
+hn_url: "https://news.ycombinator.com/item?id=50020947"
 ---
 Lynch distinguishes the model (the LLM) from the agent (the software that wires it to files and commands). Since early 2025 the models have improved a lot, he says, but the agents have not, and they are now the bottleneck.
 

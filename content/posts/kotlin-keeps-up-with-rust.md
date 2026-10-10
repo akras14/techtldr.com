@@ -8,6 +8,7 @@ source_title: "Kotlin Keeps Up With Rust"
 source_author: "Mystic"
 source_site: "wecodefire.com"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50023409"
 ---
 The author's claim is that DHH's Campfire benchmark table, which ranks Rails, Django, Laravel, Express, Elixir, Go, Rust and C by requests per second, measures effort more than language. Rails went from 230 to 4,101 requests/s in a day with the same language and hardware, purely from architectural changes carried across ports.
 

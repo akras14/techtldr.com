@@ -8,6 +8,7 @@ source_title: "Bevy 0.20"
 source_author: "Bevy Contributors"
 source_site: "bevy.org"
 source_date: "2026-10-08"
+hn_url: "https://news.ycombinator.com/item?id=50013610"
 ---
 Bevy 0.20 is a feature release with changes in rendering, scenes, UI and shaders. It comes with a 0.19 to 0.20 migration guide.
 

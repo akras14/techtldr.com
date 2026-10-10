@@ -8,6 +8,7 @@ source_title: "OTel-Native by Design - Building Products That Export to Any Obse
 source_author: "Nityananda Gohain and Dhruv Ahuja (SigNoz)"
 source_site: "opentelemetry.io"
 source_date: "2026-10-08"
+hn_url: "https://news.ycombinator.com/item?id=50016974"
 ---
 Users eventually want telemetry sent to their own observability stack for compliance, cost or consolidation. The post argues that supporting export to any OpenTelemetry-compatible backend is the vendor-neutral way to do it, and that OTLP push should be the default for new designs.
 

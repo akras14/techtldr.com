@@ -8,6 +8,7 @@ source_title: "Why DuckDB 2.0 is faster"
 source_author: "Mehdi Ouazza"
 source_site: "MotherDuck"
 source_date: "2026-09-10"
+hn_url: "https://news.ycombinator.com/item?id=50035530"
 ---
 All numbers come from one M5 laptop and a home internet connection, and the author asks readers to rerun them before quoting.
 

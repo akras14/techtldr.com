@@ -21,6 +21,14 @@ Runs on a schedule with nobody watching. Follow the `/techtldr` skill for each p
 
    Append every story you look at to `hn-seen.txt` as `<id> posted <slug>` or `<id> skipped <short reason>`, so later runs don't re-check it. Don't record stories you never looked at.
 
-4. **Write the posts** with `/techtldr` steps 2–5. Publish at most 3 posts per run; leave the rest unrecorded for the next run.
+4. **Write the posts** with `/techtldr` steps 2–5, plus:
+   - **HN link:** set `hn_url: "https://news.ycombinator.com/item?id=<objectID>"` from the Algolia hit. Every candidate from step 2 has one.
+   - **Our own title.** Don't reuse the article's title; it stays in `source_title`, which the page already links. Write a new `title` that follows the `/anthropic-skills:title-workshop` rules, without running its interactive workflow:
+     - First state the post's one true claim: the most specific, surprising, checkable thing it says (a result, a number, a reversal, a concrete artifact).
+     - Lead with that. Prefer the measured number or the named artifact over adjectives. Put the load-bearing noun first.
+     - Sentence case, at most 72 characters, no trailing punctuation, no emoji, no site name.
+     - Avoid editorializing, vague scale words ("major", "powerful"), press-release verbs (launches, unveils), curiosity gaps ("the one thing"), slogans, and second person.
+     - Add a `(Year)` tag if the source is more than about a year old.
+     - The title is a promise the summary must keep; don't claim more than the author did. Publish at most 3 posts per run; leave the rest unrecorded for the next run.
 
 5. **Publish without review:** commit the posts and `hn-seen.txt` together, then `git pull --rebase origin main` and `git push origin HEAD:main`. Don't open a PR.

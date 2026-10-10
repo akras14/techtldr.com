@@ -8,6 +8,7 @@ source_title: "Deno is joining Cloudflare"
 source_author: "Ryan Dahl"
 source_site: "deno.com"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50019911"
 ---
 The Deno team is joining Cloudflare, and Deno as a standalone runtime and hosting service is being wound down. Dahl says the team decided to focus its effort on a single shared platform rather than keep developing a separate runtime and host.
 

@@ -8,6 +8,7 @@ source_title: "AI Data Center Companies Reveal to Warren, Blumenthal, Van Hollen
 source_author: "Office of Sen. Elizabeth Warren"
 source_site: "warren.senate.gov"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50031156"
 ---
 
 Senators Elizabeth Warren, Chris Van Hollen and Richard Blumenthal released *Power and Profits: How the AI Data Center Boom Costs Households and Communities*. They conclude that the data center industry leaves ordinary citizens "stuck with the bills". This is a press release from the senators' own offices, so it presents their framing of the findings.

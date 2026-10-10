@@ -8,4 +8,5 @@ source_title: ""
 source_author: ""
 source_site: ""
 source_date: ""
+hn_url: ""
 ---

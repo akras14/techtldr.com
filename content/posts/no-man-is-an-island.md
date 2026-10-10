@@ -8,6 +8,7 @@ source_title: "No Man Is an Island"
 source_author: "Fernando Borretti"
 source_site: "borretti.me"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50025935"
 ---
 Borretti started from the plan that he would manage AI agents at work and keep doing the intellectual side of software (reading, learning and designing languages, writing essays, tinkering on open source) for fun. The second half did not survive.
 

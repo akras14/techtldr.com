@@ -7,6 +7,7 @@ source: "https://www.thomas-huehn.com/knuth-reward-check"
 source_title: "Knuth reward check"
 source_author: "Thomas Huehn"
 source_site: "thomas-huehn.com"
+hn_url: "https://news.ycombinator.com/item?id=50034081"
 ---
 
 **Bottom line:** Twenty years ago the author found an error in Donald Knuth's *Computer Modern Typefaces* (Volume E of Computers & Typesetting), confirmed it, and received one of Knuth's famous reward checks. The post doesn't say what the error was.

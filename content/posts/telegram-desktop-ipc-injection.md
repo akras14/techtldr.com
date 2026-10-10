@@ -8,6 +8,7 @@ source_title: "Telegram Desktop: one-click account takeover via IPC injection"
 source_author: "beaksec"
 source_site: "beaksec"
 source_date: "2026-10-03"
+hn_url: "https://news.ycombinator.com/item?id=50029123"
 ---
 
 **Bottom line:** Telegram Desktop through 7.2.8 can be made to hand over its login session after a single link click. Two flaws combine: an injection bug in how a second app launch talks to the running one, and an internal command that reads any file and sends it to a chat with no authorization check. Upgrade to 7.2.9 or later.

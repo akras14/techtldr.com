@@ -8,6 +8,7 @@ source_title: "The Lightbulb Computer: Reimagining Spatial & Ambient Computing w
 source_author: "Guillaume Ardaud"
 source_site: "lightbulbcomputer.com"
 source_date: "2026-09"
+hn_url: "https://news.ycombinator.com/item?id=50029487"
 ---
 
 Ardaud argues that the future of personal computing shouldn't be glasses or headsets, which he finds constraining and socially awkward. He proposes a "Lightbulb Computer": a projector plus computer vision shaped like a bulb that screws into any standard socket, or sits in a portable lamp base. It responds to voice, sees where you point, analyzes what it sees, and projects content onto the real world.

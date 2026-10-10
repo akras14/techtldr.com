@@ -8,6 +8,7 @@ source_title: "Compiling Rust to readable C with Eurydice"
 source_author: "Daroc Alden"
 source_site: "LWN.net"
 source_date: "2026-01-30"
+hn_url: "https://news.ycombinator.com/item?id=50027853"
 ---
 Eurydice, part of the Aeneas verification project (maintained by people at Inria and Microsoft), converts Rust to C while keeping the shape of the original code. Unlike rustc, which emits machine-oriented code, it aims for output that existing C verification tools can consume. It has already been used on some post-quantum-cryptography routines.
 

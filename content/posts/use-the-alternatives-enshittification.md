@@ -8,6 +8,7 @@ source_title: "Stop complaining about enshittification. Use the alternatives"
 source_author: "Alexander Fortin"
 source_site: "a.l3x.in"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50015169"
 ---
 
 **Bottom line:** Fortin's claim is that passive acceptance of bad digital services isn't inevitable. Swapping a few defaults gives a noticeably better daily experience, and the network effect is a weaker excuse than people think. He says he can't escape everything, but starts with the biggest ad-driven services and moves step by step.

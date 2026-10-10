@@ -8,6 +8,7 @@ source_title: "Software developers are not okay"
 source_author: "Baldur Bjarnason"
 source_site: "baldurbjarnason.com"
 source_date: "2026-10-06"
+hn_url: "https://news.ycombinator.com/item?id=50032590"
 ---
 
 Bjarnason's claim is that the software industry has become an increasingly hostile place to work, and that this is driven by managerial and executive incentives, not just by AI. He thinks this is about as good as it gets for developers at big tech companies and advises considering a future outside tech.

@@ -8,6 +8,7 @@ source_title: "There's little that's \"inevitable\" about AI"
 source_author: "Iris Meredith"
 source_site: "deadSimpleTech"
 source_date: "2026-10-10"
+hn_url: "https://news.ycombinator.com/item?id=50032064"
 ---
 
 **Bottom line:** Iris Meredith argues that LLMs fail the test for a truly inevitable technology. They are closer to chemical weapons than to firearms: useful to weak players, marginal for serious ones, and easy to neutralise. Adoption will go on for contingent reasons, but no one is forced to use them.

@@ -6,6 +6,7 @@ summary: "Prime Intellect says Prime Agent orchestrated a swarm of more than 2,0
 source: "https://www.primeintellect.ai/blog/prime-agent-rust"
 source_title: "Rewriting Prime Agent in Rust"
 source_site: "Prime Intellect"
+hn_url: "https://news.ycombinator.com/item?id=50027694"
 ---
 
 **Bottom line:** Prime Intellect (by its own account) used Prime Agent, its coding agent, to rewrite itself from TypeScript to Rust. Over two weeks, a swarm of 2,000+ agents ran across 10,000+ sandboxes and about 200 billion tokens from a GLM-5.3 endpoint. The company reports large gains in startup speed and memory, plus Windows support and per-session crash isolation. Humans stayed in the loop for later bug finding, direction and review.

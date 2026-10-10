@@ -7,6 +7,7 @@ source: "https://werwolv.net/posts/macromedia_copy_protection/"
 source_title: "Getting old Macromedia Director Games to run on modern Hardware"
 source_author: "WerWolv"
 source_site: "WerWolv"
+hn_url: "https://news.ycombinator.com/item?id=50020901"
 ---
 
 **Bottom line:** WerWolv revived a childhood CD-ROM adventure game by working through three copy protection layers. The whole fix came down to a 3-byte patch in the game executable and a stubbed-out function in a support DLL. The same method should apply to other Macromedia Director games, though not with one common patch.

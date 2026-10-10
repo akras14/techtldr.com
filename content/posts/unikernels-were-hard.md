@@ -7,6 +7,7 @@ source: "https://ghuntley.com/unikernels/"
 source_title: "unikernels were hard. key word: were."
 source_author: "Geoffrey Huntley"
 source_site: "ghuntley.com"
+hn_url: "https://news.ycombinator.com/item?id=50033357"
 ---
 A unikernel makes the application the operating system: no userland, nothing to fork or spawn, and everything (web server, DNS, mail) is a library inside the app. That was the historic friction. Huntley and Justin Cormack, who worked on MirageOS, recall that early Mirage had TCP and HTTPS stacks but almost nothing for storage.
 

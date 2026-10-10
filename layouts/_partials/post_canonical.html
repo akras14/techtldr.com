@@ -18,5 +18,6 @@
     {{- end }}
   {{- end }}.
   <a href="{{ . }}" target="_blank" rel="noopener">Read the original →</a>
+  {{- with $.Params.hn_url }} <a href="{{ . }}" target="_blank" rel="noopener">Discuss on Hacker News →</a>{{ end }}
 </div>
 {{- end }}

@@ -8,6 +8,7 @@ source_title: "Next.js 16.4"
 source_author: "Next.js Team"
 source_site: "nextjs.org"
 source_date: "2026-10-06"
+hn_url: "https://news.ycombinator.com/item?id=50028855"
 ---
 
 Next.js says the 16.x releases added a new programming model, Cache Components, that fixes long-standing App Router frustrations. It gives fast initial loads (even for personalized pages), instant client navigations, and opt-in, composable caching. Earlier releases stopped short of recommending it universally because some cases couldn't match the old model's cost and performance. 16.4 closes those gaps. It is now the recommendation for all apps, new apps get it by default, and it becomes the default in Next.js 17.

@@ -8,6 +8,7 @@ source_title: "Fired OpenAI safety researchers dispute misconduct claims, warn o
 source_author: "Rebecca Bellan"
 source_site: "TechCrunch"
 source_date: "2026-10-08"
+hn_url: "https://news.ycombinator.com/item?id=50018350"
 ---
 
 Jasmine Wang, Tomek Korbak and Mikita Balesni, three safety researchers OpenAI fired last week, published an open letter denying that they mishandled sensitive information and warning that their dismissal is chilling the company's safety culture. OpenAI says an investigation found a "pattern of misconduct" and denies any retaliation for raising safety concerns.

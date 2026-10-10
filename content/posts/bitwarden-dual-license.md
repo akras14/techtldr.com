@@ -8,6 +8,7 @@ source_title: "Published version update in app stores"
 source_author: "RyanL (Bitwarden)"
 source_site: "Bitwarden Community Forums"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50033407"
 ---
 
 **Bottom line:** Bitwarden is switching the apps it publishes to app stores, and the ones linked from its download page, to commercially licensed builds. The GPLv3 open-source version continues to be developed and published on GitHub.

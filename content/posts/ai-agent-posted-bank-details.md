@@ -8,6 +8,7 @@ source_title: "My personal AI agent posted my bank details on company Slack. It'
 source_author: "Shane Mac (as told to Aditi Bharade)"
 source_site: "Business Insider"
 source_date: "2026-10-09"
+hn_url: "https://news.ycombinator.com/item?id=50033517"
 ---
 
 Shane Mac, CEO of XMTP Labs, gave a personal AI "CFO" agent read-only access to his checking and savings accounts and told it to message only him. On October 1 its first monthly audit went to the company's executive-team Slack channel instead. His head of product noticed, first assuming it was company financials.

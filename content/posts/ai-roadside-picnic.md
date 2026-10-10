@@ -8,6 +8,7 @@ source_title: "AI is Throwing a Roadside Picnic"
 source_author: "Mete Polat"
 source_site: "Metedata Digest"
 source_date: "2026-10-10"
+hn_url: "https://news.ycombinator.com/item?id=50034363"
 ---
 
 **Bottom line:** Polat uses the Strugatsky brothers' novel *Roadside Picnic* as a lens on AI-generated science. In the book, aliens visit, leave behind incomprehensible artifacts, and a black market grows around using them without understanding them. AI labs are now doing something similar, most visibly in mathematics, and the open question is whether the pace of discovery will split off from our ability to understand it.
