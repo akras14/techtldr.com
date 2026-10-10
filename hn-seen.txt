@@ -55,3 +55,19 @@
 50021410 posted jane-street-market-data-diffusion
 50020533 posted nick-park-grand-day-out
 50027118 posted claude-false-philly-murder-tip
+50019860 posted anthropic-bans-cruelty-to-claude
+50019499 posted openai-open-math-problems-reactions
+50023450 skipped thin funding announcement
+50023065 skipped blocked (qz)
+50019930 skipped blocked (403)
+50021540 skipped blocked (euronews)
+50020927 skipped dead link
+50022654 skipped no readable content
+50024108 skipped unreadable
+50027590 skipped product/museum page
+50025767 skipped link list
+50026509 skipped news, not fetched
+50026404 skipped news, not fetched
+50021403 skipped political press release
+50018420 skipped news, not tech
+50017966 skipped news, not tech
