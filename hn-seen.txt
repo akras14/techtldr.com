@@ -78,3 +78,5 @@
 50029681 posted rabbi-happy-slaves-claude
 50029452 skipped paywalled (Bloomberg)
 50029330 skipped paywalled (NYT)
+50028855 posted nextjs-16-4
+50029982 skipped short opinion piece, thin
