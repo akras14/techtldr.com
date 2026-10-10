@@ -74,3 +74,4 @@
 50029123 posted telegram-desktop-ipc-injection
 50028062 posted autonomous-trucking-revolution
 50028027 skipped institutional press release
+50029630 skipped political satire, not tech
