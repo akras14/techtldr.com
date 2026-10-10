@@ -8,6 +8,7 @@ source_title: "Margaret Hamilton, computing pioneer who led software development
 source_author: "Janine Liberty"
 source_site: "MIT News"
 source_date: "2026-10-07"
+hn_url: "https://news.ycombinator.com/item?id=49998895"
 ---
 
 Margaret Hamilton, who led the MIT team that wrote the Apollo onboard flight software and helped make "software engineering" a recognized discipline, died on September 30 at 90. Her team's priority-driven design is why the Apollo 11 landing could continue through the famous 1202 alarm.

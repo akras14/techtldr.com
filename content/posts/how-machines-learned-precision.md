@@ -8,6 +8,7 @@ source_title: "How Machines Learned Precision"
 source_author: "Gary Linscott"
 source_site: "glinscott.github.io"
 source_date: "2026-10-01"
+hn_url: "https://news.ycombinator.com/item?id=49980626"
 ---
 
 Between the 1770s and the 1850s, British workshops went from struggling to bore a round cylinder to detecting a millionth of an inch. They got there by bootstrapping: building accurate references (flat plates, true screws, standard bars) out of inaccurate parts, then using machines to copy that accuracy into more machines.

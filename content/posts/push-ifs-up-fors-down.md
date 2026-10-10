@@ -7,6 +7,7 @@ source: "https://debasishg.github.io/blog/push-ifs-up-fors-down/"
 source_title: "Push Ifs Up and Fors Down: The Idiom, Its Algebra, and Its Limits"
 source_author: "Debasish Ghosh"
 source_site: "debasishg.github.io"
+hn_url: "https://news.ycombinator.com/item?id=49997073"
 ---
 
 Put branching decisions in the caller and give hot loops branch-free, batched work. The same rule shows up as predicate pushdown in SQL planners and as a provable law in functional programming, and the math also tells you exactly when the rewrite is legal and when it actually saves work.

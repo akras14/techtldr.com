@@ -7,6 +7,7 @@ source: "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-vi
 source_title: "Why were Victorian elites so effective?"
 source_author: "Samuel Hughes"
 source_site: "Works in Progress"
+hn_url: "https://news.ycombinator.com/item?id=49993908"
 ---
 
 Victorian Britain's ruling class barely studied science, slept late, drank heavily, and spent half the year at balls, yet they ran what was for much of the century the world's richest country, along with a vast empire. Samuel Hughes argues their real work was building one tight-knit community through shared schooling and nonstop socializing. That community kept the elite united, and let it pay people in prestige instead of money.

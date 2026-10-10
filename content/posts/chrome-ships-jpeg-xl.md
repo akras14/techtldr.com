@@ -8,6 +8,7 @@ source_title: "Shipping JPEG XL in Chrome"
 source_author: "Luca Versari, Moritz Firsching, Philip Jägenstedt"
 source_site: "Chrome for Developers"
 source_date: "2026-10-06"
+hn_url: "https://news.ycombinator.com/item?id=49991227"
 ---
 
 Chrome 155 adds native JPEG XL decoding. Google rebuilt the decoder in Rust (jxl-rs) so a new image format doesn't mean a new memory-safety attack surface, and says it got there without giving up speed. The deciding factor was years of steady developer demand through the Interop process.

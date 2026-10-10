@@ -8,6 +8,7 @@ source_title: "Introducing Mistral Large 4"
 source_author: "Mistral"
 source_site: "Mistral AI"
 source_date: "2026-10-06"
+hn_url: "https://news.ycombinator.com/item?id=49978116"
 ---
 
 Mistral released a preview of Mistral Large 4, a 1-trillion-parameter mixture-of-experts model (52B active) with open weights promised by the end of October. Its main pitch is cybersecurity: it scores at the top of tests that closed models refuse to attempt, and it can be self-hosted in Europe under your own policies.

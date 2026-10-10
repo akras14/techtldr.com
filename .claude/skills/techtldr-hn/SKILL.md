@@ -14,21 +14,15 @@ Runs on a schedule with nobody watching. Follow the `/techtldr` skill for each p
    Drop any story whose ID is already in `hn-seen.txt` or whose URL is already a `source:` in `content/posts/`.
 
 3. **Pick candidates, brutally.** This feed is for the owner's own reading. When in doubt, skip.
-   - **In-topic only:** software engineering, programming languages, infrastructure and databases, security, AI tooling and agents, and AI business/policy news (acquisitions, lab moves, regulation).
-   - **Out:** politics, economics, culture, health, gaming and entertainment news, and general science and math (unless it's about computing). Record these as `skipped off-topic`.
+   - **In-topic only:** software engineering, programming languages, infrastructure and databases, security, AI tooling and agents, and AI business/policy news (acquisitions, lab moves, regulation, AI companies' usage policies, the cost and politics of AI infrastructure such as data centers).
+   - **Out:** politics, economics, culture, health, gaming and entertainment news, and general science and math (unless it's about computing). AI stories that are only incident or human-interest pieces (an AI said something odd, a court case that happens to involve AI) are out; AI stories with consequences for AI companies, policy or developers are in. Record these as `skipped off-topic`.
    - **Also skip:** Ask HN posts, job posts, stories without a URL, videos, paywalls and blocked pages, bare repo or product landing pages with little to summarize, and pieces centered on accusations against private individuals.
    - **Rank, then cut:** from the in-topic candidates you can read in full, take the highest-point stories first.
 
    Append every story you look at to `hn-seen.txt` as `<id> posted <slug>` or `<id> skipped <short reason>`, so later runs don't re-check it. Don't record stories you never looked at.
 
-4. **Write the posts** with `/techtldr` steps 2–5, plus:
-   - **HN link:** set `hn_url: "https://news.ycombinator.com/item?id=<objectID>"` from the Algolia hit. Every candidate from step 2 has one.
-   - **Our own title.** Don't reuse the article's title; it stays in `source_title`, which the page already links. Write a new `title` that follows the `/anthropic-skills:title-workshop` rules, without running its interactive workflow:
-     - First state the post's one true claim: the most specific, surprising, checkable thing it says (a result, a number, a reversal, a concrete artifact).
-     - Lead with that. Prefer the measured number or the named artifact over adjectives. Put the load-bearing noun first.
-     - Sentence case, at most 72 characters, no trailing punctuation, no emoji, no site name.
-     - Avoid editorializing, vague scale words ("major", "powerful"), press-release verbs (launches, unveils), curiosity gaps ("the one thing"), slogans, and second person.
-     - Add a `(Year)` tag if the source is more than about a year old.
-     - The title is a promise the summary must keep; don't claim more than the author did. Publish at most 3 posts per run; leave the rest unrecorded for the next run.
+4. **Write the posts** with `/techtldr` steps 2–7. Publish at most 3 posts per run; leave the rest unrecorded for the next run.
+   - **Duplicates:** HN often has the same news submitted from two sources on the same day. Treat that, or a story already covered by an existing post, as one story: post the primary source (the author's or company's own announcement), and record the others as `skipped duplicate of <slug>`.
+   - **HN link:** set `hn_url: "https://news.ycombinator.com/item?id=<objectID>"` from the Algolia hit.
 
 5. **Publish without review:** commit the posts and `hn-seen.txt` together, then `git pull --rebase origin main` and `git push origin HEAD:main`. Don't open a PR.

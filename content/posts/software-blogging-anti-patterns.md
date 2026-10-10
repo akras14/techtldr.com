@@ -8,6 +8,7 @@ source_title: "Anti-Patterns in Software Blogging"
 source_author: "Michael Lynch"
 source_site: "Refactoring English"
 source_date: "2026-10-07"
+hn_url: "https://news.ycombinator.com/item?id=49992257"
 ---
 
 Most developer blog posts fail in the first paragraph: they wander before telling readers who the post is for and what they'll get. Fix that in the title plus three sentences, then stop assuming readers share your background, stop outsourcing explanations to links, drop the stiff tone, and make sure the page reads well on a phone.

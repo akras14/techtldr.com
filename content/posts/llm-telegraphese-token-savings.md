@@ -7,6 +7,7 @@ source: "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/"
 source_title: "Write Like It's 1866: LLMs Relearn Telegraphese"
 source_site: "Five Minutes Forward"
 source_date: "2026-10-04"
+hn_url: "https://news.ycombinator.com/item?id=49991580"
 ---
 
 Telling a model to write "telegraphese" (no articles or filler, every fact and number kept) shrinks its output by roughly 40–49% on most models tested. Other models answer questions from those compressed notes at least as well as from plain English. That makes it close to free savings for text a model writes for another model: agent memory, scratchpads, handoffs. It doesn't apply when a human reads the output, or with models whose reasoning you can't turn off.

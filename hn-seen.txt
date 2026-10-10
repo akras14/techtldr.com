@@ -18,7 +18,7 @@
 50024571 posted ideas-not-harder-to-find
 50024090 posted lean-reliability-ai-hales
 50019056 posted ai-archives-meteorite-rhinos
-50019858 posted deno-cloudflare-workerd-celld
+50019858 skipped duplicate of deno-joins-cloudflare
 50019741 skipped medical paper, not tech
 50027252 skipped accusations against private individual
 50027167 skipped not tech
