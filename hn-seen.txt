@@ -50,3 +50,8 @@
 50017301 skipped landing page/tool/demo
 50016312 skipped landing page/tool/demo
 50015169 posted use-the-alternatives-enshittification
+50027853 posted eurydice-rust-to-c
+50027234 posted norway-wealth-tax-study
+50021410 posted jane-street-market-data-diffusion
+50020533 posted nick-park-grand-day-out
+50027118 posted claude-false-philly-murder-tip
