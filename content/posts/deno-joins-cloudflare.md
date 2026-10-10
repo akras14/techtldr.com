@@ -1,18 +1,24 @@
 ---
 title: "Deno Is Joining Cloudflare"
 slug: "deno-joins-cloudflare"
-date: 2026-10-10T00:03:26+0000
-summary: "The Deno team is joining Cloudflare to merge Deno's celld, a self-hostable Rust implementation of Workers and Durable Objects, into Cloudflare's open-source workerd runtime. The goal is to make self-hosting the Workers programming model a first-class option."
-source: "https://blog.cloudflare.com/deno-joins-cloudflare/"
+date: 2026-10-09T22:09:25+0000
+summary: "Ryan Dahl announces that the whole Deno team is joining Cloudflare and will put future work into a shared Workers-based platform instead of a separate runtime and host. Deno gets one more year of monthly bug-fix and security releases, then development ends; Deno Deploy shuts down in six months."
+source: "https://deno.com/blog/cloudflare"
 source_title: "Deno is joining Cloudflare"
-source_author: "Ryan Dahl and Kenton Varda"
-source_site: "Cloudflare Blog"
+source_author: "Ryan Dahl"
+source_site: "deno.com"
+source_date: "2026-10-09"
 ---
+The Deno team is joining Cloudflare, and Deno as a standalone runtime and hosting service is being wound down. Dahl says the team decided to focus its effort on a single shared platform rather than keep developing a separate runtime and host.
 
-**Bottom line:** The Deno team is joining Cloudflare. They will merge their self-hosting project celld into Cloudflare's open-source workerd, with Ryan Dahl and Bert Belder leading an effort to make self-hosting Workers and Durable Objects a first-class option.
+**What happens to Deno**
+- The Deno runtime gets monthly releases with bug fixes and security updates for another year. After that, the team ends its development of it.
+- Deno stays open source, and Dahl says others are welcome to continue it.
+- Deno Deploy keeps running for six months, then shuts down. Paying customers get migration support to Cloudflare Workers.
+- JSR keeps operating, with its infrastructure moving to Cloudflare.
+- The team will keep supporting rusty_v8 and work toward integrating it into workerd.
 
-**Dahl's side.** He started Deno to find simpler, more powerful abstractions, but says it never solved the harder problems of networked apps: distributing compute, coordinating state, storing data and autoscaling. Cloudflare's Durable Objects, small addressable servers each with their own SQLite database, struck him as the right model. Running them outside Cloudflare was hard, so he built celld: one Rust binary whose only external dependency is an object storage bucket.
+**Why Dahl says it makes sense**
+He frames Deno, then Deno Deploy, then a new project called celld as one progression toward making compute, storage and communication work together without each app assembling its own infrastructure. celld builds on the Cloudflare Workers programming model so that scaling is part of the model itself. At Cloudflare the team will combine this with the Workers and Durable Objects teams, aiming to make that model the default way to build servers, on Cloudflare's network or on a user's own infrastructure.
 
-**Varda's side.** He addresses the "lock-in" theory head on. He says Workers is different because it is better, and that open-sourcing workerd, the same code Cloudflare runs in production, was necessary to win customers like Shopify. He admits workerd's Durable Objects support is single-instance only, fine for local testing but not for scale. Cloudflare's own production routing is too complex for self-hosters, and his own attempt at a simpler version failed. So Deno building celld was welcome.
-
-**Plan.** Merge ideas and code from celld into workerd, with more announcements in the coming months. Both celld and workerd can be self-hosted today.
+He singles out AI agents as a motivation: Durable Objects offer cheap serverless execution, persistent state, WebSockets and a high-level JavaScript interface, which suit agent harnesses. He invites people building agents at scale on their own infrastructure to contact him.
