@@ -71,3 +71,6 @@
 50021403 skipped political press release
 50018420 skipped news, not tech
 50017966 skipped news, not tech
+50029123 posted telegram-desktop-ipc-injection
+50028062 posted autonomous-trucking-revolution
+50028027 skipped institutional press release
