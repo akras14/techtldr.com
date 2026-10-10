@@ -6,7 +6,17 @@
   <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Params.source_title | default $.Title }}</a>
   {{- with $.Params.source_author }} by {{ . }}{{ end }}
   {{- with $.Params.source_site | default $url.Host }} · {{ . }}{{ end }}
-  {{- with $.Params.source_date }} · {{ time.Format "Jan 2, 2006" . }}{{ end }}.
+  {{- /* source_date is usually YYYY-MM-DD, but sources sometimes only give a month or year. Never fail the build over it. */ -}}
+  {{- with $.Params.source_date }}
+    {{- $d := string . }}
+    {{- if findRE `^\d{4}-\d{2}$` $d }} · {{ time.Format "Jan 2006" (printf "%s-01" $d) }}
+    {{- else if findRE `^\d{4}$` $d }} · {{ $d }}
+    {{- else }}
+      {{- with try (time.Format "Jan 2, 2006" $d) }}
+        {{- if .Err }} · {{ $d }}{{ else }} · {{ .Value }}{{ end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}.
   <a href="{{ . }}" target="_blank" rel="noopener">Read the original →</a>
 </div>
 {{- end }}
