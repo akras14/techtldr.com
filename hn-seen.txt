@@ -106,3 +106,10 @@
 50024242 posted rampart-on-device-pii
 50034363 posted ai-roadside-picnic
 50035550 skipped reuters paywall/blocked
+50035561 posted vibe-coded-browser-game-ports
+50035886 skipped ft paywall
+50035530 posted duckdb-2-faster
+50034123 skipped thin celebrity piece
+50028162 posted strong-coupling-lattice-qcd
+50036119 skipped wikipedia page
+50033357 posted unikernels-were-hard
