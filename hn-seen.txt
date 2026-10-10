@@ -97,3 +97,10 @@
 50032590 posted software-developers-are-not-okay
 50031156 posted ai-data-centers-not-paying-costs
 50029487 posted lightbulb-computer
+50033678 skipped paywalled WSJ
+50034008 skipped paywalled FT
+50034141 skipped not read, old political essay
+50034081 posted knuth-reward-check
+50033721 posted popvax-phase-1-covid-vaccine
+50033638 posted fda-toxic-chemicals-food-loophole
+50024242 posted rampart-on-device-pii
