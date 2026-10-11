@@ -188,3 +188,4 @@
 50045273 skipped bare library page
 50044043 skipped off-topic
 50036806 skipped off-topic
+50044989 skipped bare product landing page
