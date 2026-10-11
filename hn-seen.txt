@@ -156,3 +156,5 @@
 50039063 skipped off-topic
 50040625 skipped off-topic
 50037859 skipped Ask HN
+50041540 skipped bare landing page
+50041682 skipped off-topic
