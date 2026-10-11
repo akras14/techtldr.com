@@ -136,3 +136,6 @@
 50037299 skipped blocked (Cloudflare)
 50038383 skipped duplicate of anthropic-bans-cruelty-to-claude
 50038634 skipped bare product page
+50038458 skipped Ask HN
+50035591 skipped off-topic
+50034640 skipped off-topic
