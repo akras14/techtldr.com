@@ -153,3 +153,6 @@
 50033240 skipped paywall
 50040547 skipped off-topic
 50040276 skipped off-topic
+50039063 skipped off-topic
+50040625 skipped off-topic
+50037859 skipped Ask HN
