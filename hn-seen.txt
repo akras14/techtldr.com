@@ -189,3 +189,10 @@
 50044043 skipped off-topic
 50036806 skipped off-topic
 50044989 skipped bare product landing page
+50044919 posted sqlite-multiwriter-concurrent-writers
+50047055 skipped off-topic
+50046241 skipped off-topic
+50047091 skipped off-topic
+50047005 skipped off-topic
+50046117 skipped social post, no article
+50047071 skipped off-topic opinion rant
