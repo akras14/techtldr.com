@@ -134,3 +134,5 @@
 50032445 skipped off-topic
 50037949 posted single-pass-decision-model
 50037299 skipped blocked (Cloudflare)
+50038383 skipped duplicate of anthropic-bans-cruelty-to-claude
+50038634 skipped bare product page
