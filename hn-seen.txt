@@ -144,3 +144,7 @@
 50038640 skipped off-topic
 50038473 skipped bare repo page
 50038623 skipped off-topic
+50039627 posted nadella-assume-models-compromised
+50039062 skipped off-topic
+50039331 skipped off-topic
+50039504 skipped off-topic
