@@ -149,3 +149,5 @@
 50039331 skipped off-topic
 50039504 skipped off-topic
 50039536 skipped video
+50039630 skipped product landing page
+50033240 skipped paywall
