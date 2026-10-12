@@ -245,3 +245,7 @@
 50054751 skipped blocked page (github PR not readable)
 50050367 skipped blocked page (phoronix cloudflare)
 50054092 skipped off-topic crypto theft claim
+50055304 posted european-supermarket-fridge-cyberattack
+50055220 skipped off-topic
+50053765 skipped off-topic
+50051097 skipped bare product landing page
