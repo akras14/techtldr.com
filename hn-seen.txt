@@ -236,3 +236,8 @@
 50049872 skipped bare repo page
 50049003 skipped bare repo page
 50043030 skipped release notes, little to summarize
+50053216 skipped off-topic personal layoff essay
+50052251 skipped bare repo page
+50049588 skipped bare repo page
+50041573 skipped bare repo page
+50049902 skipped off-topic tweet on management
