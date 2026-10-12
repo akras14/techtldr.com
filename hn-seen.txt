@@ -275,3 +275,9 @@
 50059204 skipped opinion
 50054147 skipped off-topic
 50057185 skipped off-topic hardware
+50060694 skipped unreadable source (github blocked)
+50058850 skipped bare repo
+50060500 skipped opinion
+50059446 skipped off-topic
+50060311 skipped off-topic
+50055884 skipped off-topic
