@@ -255,3 +255,13 @@
 50056822 skipped off-topic
 50052638 posted google-devsite-flask-cookie-rce
 50055654 skipped paywalled or blocked, no content
+50054474 posted ruby-renaissance-gem-names-doubled
+50048490 posted logfire-dynamic-json-shredding
+50057956 skipped duplicate of european-supermarket-fridge-cyberattack
+50057551 skipped duplicate of european-supermarket-fridge-cyberattack
+50055195 skipped duplicate of european-supermarket-fridge-cyberattack
+50058507 skipped unreadable JS-only page
+50057030 skipped off-topic
+50057796 skipped off-topic
+50057765 skipped off-topic
+50058127 skipped off-topic
