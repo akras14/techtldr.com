@@ -288,3 +288,7 @@
 50060387 skipped duplicate of european-supermarket-fridge-cyberattack
 50060269 skipped opinion
 50062237 skipped off-topic
+50061859 skipped off-topic retro hobby
+50062076 skipped no article (tweet)
+50063427 skipped opinion
+50059972 skipped thin news item
