@@ -292,3 +292,8 @@
 50062076 skipped no article (tweet)
 50063427 skipped opinion
 50059972 skipped thin news item
+50063138 posted vfmaddrnd231pd-intel-sdm
+50061791 skipped off-topic browser setting tip
+50063417 skipped bare landing page
+50063831 skipped off-topic
+50061290 skipped social post, opinion thread
