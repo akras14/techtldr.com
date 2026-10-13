@@ -297,3 +297,8 @@
 50063417 skipped bare landing page
 50063831 skipped off-topic
 50061290 skipped social post, opinion thread
+50059096 skipped no url launch hn
+50064536 skipped off-topic
+50062025 skipped video
+50062376 skipped off-topic
+50061411 skipped off-topic politics
