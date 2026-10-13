@@ -321,3 +321,4 @@
 50067098 skipped off-topic math
 50065859 skipped video
 50066860 skipped off-topic opinion on ethics/politics
+50067570 skipped off-topic politics
