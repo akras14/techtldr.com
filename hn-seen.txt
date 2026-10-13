@@ -340,3 +340,6 @@
 50067390 skipped duplicate of 50070302 off-topic
 50068443 skipped vendor marketing post
 50057725 skipped bare repo landing page
+50068099 posted sre-book-second-edition
+50070593 skipped abstract-only research page, little to summarize
+50071017 skipped off-topic (Apple consumer product)
