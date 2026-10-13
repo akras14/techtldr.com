@@ -343,3 +343,7 @@
 50068099 posted sre-book-second-edition
 50070593 skipped abstract-only research page, little to summarize
 50071017 skipped off-topic (Apple consumer product)
+50070287 skipped off-topic (math)
+50071310 skipped off-topic (Apple consumer product)
+50064673 skipped off-topic (software history/culture)
+50070688 skipped bare product landing page
