@@ -326,3 +326,6 @@
 50068946 posted software-engineers-blue-collar
 50068510 posted where-is-the-new-good-software
 50068437 skipped bare repo landing page
+50068508 posted ledger-wallets-secret-esim
+50067414 skipped off-topic history
+50069329 skipped off-topic finance/politics
