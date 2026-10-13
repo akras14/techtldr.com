@@ -329,3 +329,8 @@
 50068508 posted ledger-wallets-secret-esim
 50067414 skipped off-topic history
 50069329 skipped off-topic finance/politics
+50069318 posted lambda-web-functions
+50069971 posted embeddinggemma-transcribe
+50069499 skipped issue page unreadable (GitHub blocked)
+50069337 skipped bare product landing page
+50069333 skipped paywalled (Reuters)
