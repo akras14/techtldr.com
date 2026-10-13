@@ -375,3 +375,7 @@
 50073471 skipped no URL (Launch HN)
 50070010 skipped bare repo
 50072349 skipped off-topic (energy)
+50078141 skipped off-topic (OpenAI bugging arrest, incident)
+50078653 skipped duplicate of off-topic OpenAI bugging arrest
+50077166 skipped low-signal vendor OCR model announcement
+50075809 skipped bare repo
