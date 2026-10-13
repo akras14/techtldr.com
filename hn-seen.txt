@@ -314,3 +314,5 @@
 50065805 skipped off-topic economics
 50065972 skipped off-topic politics
 50061497 skipped gaming news
+50065692 posted ai-models-hidden-capabilities-backdoor
+50065713 skipped off-topic dock history
