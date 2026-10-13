@@ -323,3 +323,6 @@
 50066860 skipped off-topic opinion on ethics/politics
 50067570 skipped off-topic politics
 50065062 skipped off-topic surveillance/privacy
+50068946 posted software-engineers-blue-collar
+50068510 posted where-is-the-new-good-software
+50068437 skipped bare repo landing page
