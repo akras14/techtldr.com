@@ -334,3 +334,9 @@
 50069499 skipped issue page unreadable (GitHub blocked)
 50069337 skipped bare product landing page
 50069333 skipped paywalled (Reuters)
+50068036 posted character-ai-chapter-11
+50069942 skipped duplicate of character-ai-chapter-11
+50070302 skipped off-topic (browser product announcement)
+50067390 skipped duplicate of 50070302 off-topic
+50068443 skipped vendor marketing post
+50057725 skipped bare repo landing page
