@@ -347,3 +347,9 @@
 50071310 skipped off-topic (Apple consumer product)
 50064673 skipped off-topic (software history/culture)
 50070688 skipped bare product landing page
+50070741 skipped off-topic (math)
+50072286 skipped off-topic (consumer product marketing)
+50072913 skipped off-topic (consumer app)
+50072229 skipped off-topic (science culture)
+50072909 skipped off-topic (privacy/consumer)
+50073221 skipped low-value (anchor on blog index, marginal)
