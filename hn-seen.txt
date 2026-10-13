@@ -353,3 +353,8 @@
 50072229 skipped off-topic (science culture)
 50072909 skipped off-topic (privacy/consumer)
 50073221 skipped low-value (anchor on blog index, marginal)
+50073879 skipped bare landing page (no content to summarize)
+50072994 skipped off-topic (energy economics)
+50070554 skipped off-topic (science)
+50073455 skipped off-topic (education culture)
+50074091 skipped off-topic (politics)
