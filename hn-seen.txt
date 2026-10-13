@@ -302,3 +302,7 @@
 50062025 skipped video
 50062376 skipped off-topic
 50061411 skipped off-topic politics
+50064318 posted agent-feedback-loop-kindle-jailbreak
+50063365 skipped product landing page
+50063042 skipped gaming/off-topic
+50063717 skipped bare repo landing page
