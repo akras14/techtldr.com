@@ -369,3 +369,9 @@
 50070286 skipped bare product landing page
 50076048 posted uv-build-gentoo-plea
 50077020 skipped off-topic (guitar toy)
+50076503 posted ai-agents-chrome-full-chain-xbow
+50077703 skipped off-topic (AI incident, not consequential)
+50075665 skipped off-topic (music notation)
+50073471 skipped no URL (Launch HN)
+50070010 skipped bare repo
+50072349 skipped off-topic (energy)
