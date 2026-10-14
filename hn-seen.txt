@@ -411,3 +411,8 @@
 50081124 skipped off-topic (fiction)
 50074325 skipped bare catalogue landing page
 50073755 skipped bare repo page
+50084240 skipped bare product page
+50084622 skipped off-topic (geopolitics)
+50082021 skipped bare landing page
+50081189 skipped Ask HN
+50077964 skipped off-topic (SEO)
