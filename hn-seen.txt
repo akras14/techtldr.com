@@ -471,3 +471,13 @@
 50086363 skipped off-topic (GPU history)
 50087337 skipped off-topic (science)
 50091519 skipped off-topic (dating scams)
+50091788 posted ai-lab-agent-escapes-containment-failures
+50092664 posted ai-data-center-debt-banks-offload
+50090484 posted code-comments-dont-help-ai-agents
+50090662 skipped off-topic (Tesla robotaxi)
+50092847 skipped off-topic (politics)
+50092415 skipped off-topic (news)
+50091875 skipped off-topic (rare earths)
+50091684 skipped duplicate of OpenAI bugging story, off-topic
+50088713 skipped bare repo page
+50090932 skipped bare product page
