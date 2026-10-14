@@ -436,3 +436,11 @@
 50081614 skipped off-topic
 50085022 skipped off-topic (3D museum)
 50085547 skipped off-topic (politics)
+50087328 skipped off-topic (policy/ads)
+50087336 skipped off-topic (media)
+50084969 skipped Ask HN
+50087044 skipped off-topic (obituary)
+50086484 skipped off-topic (math/science)
+50085114 skipped Ask HN
+50087140 skipped off-topic (politics)
+50081158 skipped off-topic (crime, Reuters paywall)
