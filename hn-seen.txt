@@ -489,3 +489,9 @@
 50090707 skipped off-topic (employee dispute)
 50088511 skipped off-topic (gaming)
 50088145 skipped off-topic (layoffs)
+50094673 posted yandex-outage-bots-migrated-not-stopped
+50094694 posted anthropic-scion-source-control (added as also-covered-by)
+50093568 skipped off-topic (health)
+50093612 skipped trivial (curl sites listing)
+50091914 skipped off-topic (culture)
+50080836 skipped bare repo page
