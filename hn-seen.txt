@@ -461,3 +461,13 @@
 50089229 skipped off-topic (submarine cables, networking policy)
 50089052 skipped press release
 50088166 skipped bare product announcement
+50090369 posted go-1-27-http1-connection-reuse
+50090842 posted torvalds-llm-assisted-folio-patches
+50090443 skipped thin post about pelican SVG diversity, benchmark plug
+50090246 skipped off-topic (politics)
+50089921 skipped off-topic (social science)
+50090349 skipped thin phone-number story
+50090799 skipped off-topic (writing style)
+50086363 skipped off-topic (GPU history)
+50087337 skipped off-topic (science)
+50091519 skipped off-topic (dating scams)
