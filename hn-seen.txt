@@ -452,3 +452,12 @@
 50087524 skipped off-topic (Apple Keynote ads, consumer product)
 50088501 skipped off-topic (politics, Starlink/Ukraine)
 50082497 skipped off-topic (politics)
+50088643 posted windows-vms-single-use-test-devices
+50089395 skipped duplicate of character-ai-chapter-11 (added as also-covered)
+50088534 skipped blocked page (Cloudflare), topic covered by byte-matching-oracle-agent-decompilation
+50090084 skipped off-topic (politics)
+50088529 skipped off-topic (opinion on consumer product)
+50089624 skipped off-topic (Wikipedia, not tech)
+50089229 skipped off-topic (submarine cables, networking policy)
+50089052 skipped press release
+50088166 skipped bare product announcement

@@ -18,3 +18,5 @@ Character.ai has started a voluntary Chapter 11 process to sell the company unde
 - Court filings are hosted by Stretto, the company's claims and noticing agent.
 
 Also covered by [The Verge](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney), whose URL suggests a Disney angle (not read; the page was blocked).
+
+Also covered by [404 Media](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/), which draws on the bankruptcy affidavit: compute cost about $13.8M/month in 2024 and $10M/month in 2025, against revenue that peaked around $5.3M/month, and losses of roughly $8-9M/month as of August 2026 after cutting costs, moving to cheaper GPUs and open-weight models, and adding ads.
