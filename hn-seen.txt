@@ -401,3 +401,7 @@
 50080998 skipped off-topic (finance)
 50081930 skipped off-topic (AI/neuroscience essay)
 50078978 skipped off-topic (news, accusations against individual)
+50081092 posted frameworks-still-matter-with-agents
+50082470 skipped bare homepage
+50081082 skipped off-topic (climate)
+50071744 skipped off-topic (hardware product page)
