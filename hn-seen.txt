@@ -416,3 +416,7 @@
 50082021 skipped bare landing page
 50081189 skipped Ask HN
 50077964 skipped off-topic (SEO)
+50083046 posted netbsd-ai-free-donations
+50085112 skipped bare product page
+50085296 skipped personal anecdote, little to summarize
+50085259 skipped off-topic (AI incident, entertainment)
