@@ -481,3 +481,11 @@
 50091684 skipped duplicate of OpenAI bugging story, off-topic
 50088713 skipped bare repo page
 50090932 skipped bare product page
+50088447 posted strands-decider-encoder-vs-decoder
+50092730 skipped off-topic (Starlink sabotage)
+50093180 skipped off-topic (health)
+50091794 skipped bare repo page
+50092470 skipped bare product page
+50090707 skipped off-topic (employee dispute)
+50088511 skipped off-topic (gaming)
+50088145 skipped off-topic (layoffs)
