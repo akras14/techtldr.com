@@ -399,3 +399,5 @@
 50080007 skipped off-topic (conference cancelled)
 50077389 skipped off-topic (movies)
 50080998 skipped off-topic (finance)
+50081930 skipped off-topic (AI/neuroscience essay)
+50078978 skipped off-topic (news, accusations against individual)
