@@ -383,3 +383,11 @@
 50077743 skipped off-topic (Huawei chips, business)
 50078691 skipped off-topic (government IT politics)
 50079464 skipped off-topic (robotics RL research, landing page)
+50079865 skipped off-topic (programming-as-hobby talk, little to summarize)
+50077096 skipped off-topic (math history)
+50080275 skipped off-topic (Show HN consumer app)
+50077660 skipped off-topic (obituary, math)
+50067721 posted git-release-history-metainfo-commits
+50079437 skipped product announcement, robotics
+50078423 skipped duplicate of ledger-wallets-secret-esim (added as also covered)
+50076505 skipped off-topic (retro OS emulation)
