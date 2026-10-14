@@ -498,3 +498,8 @@
 50094994 posted opencode-2-background-service-code-mode
 50092423 posted oxide-voxel-emulated-rack-lab
 50095353 skipped marginal AI model release post
+50088044 posted github-actions-lockfiles-preview
+50093857 skipped CNBC blocked
+50096142 skipped off-topic
+50095034 skipped off-topic (politics)
+50080450 skipped marginal Show HN repo page
