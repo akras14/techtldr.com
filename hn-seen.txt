@@ -407,3 +407,7 @@
 50071744 skipped off-topic (hardware product page)
 50082962 posted anthropic-ai-self-replication-iot-botnet
 50083130 skipped bare GitHub issue
+50083766 skipped off-topic (economics)
+50081124 skipped off-topic (fiction)
+50074325 skipped bare catalogue landing page
+50073755 skipped bare repo page
