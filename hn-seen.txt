@@ -518,3 +518,5 @@
 50094361 skipped blocked page
 50084977 skipped off-topic
 50092528 skipped video
+50100791 skipped off-topic
+50096300 skipped bare product landing page
