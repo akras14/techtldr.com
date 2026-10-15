@@ -507,3 +507,4 @@
 50097880 skipped off-topic
 50096477 skipped paywall (FT)
 50096334 skipped paywall (FT)
+50098274 posted double-headed-stack-allocator
