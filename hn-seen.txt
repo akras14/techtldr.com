@@ -561,3 +561,7 @@
 50105701 skipped duplicate of citizen-lab-controlium-ad-spyware
 50105900 skipped paywall
 50105467 skipped bare product page
+50106023 posted decision-models-keep-own-server-over-people
+50100345 posted ambitious-prompting-altitude-depth-range
+50108131 skipped off-topic
+50106054 skipped bare product page
