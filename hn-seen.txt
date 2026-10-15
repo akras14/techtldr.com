@@ -565,3 +565,9 @@
 50100345 posted ambitious-prompting-altitude-depth-range
 50108131 skipped off-topic
 50106054 skipped bare product page
+50107114 posted anthropic-gives-metr-employee-like-access
+50105791 posted microsoft-mai-base-2-pretraining
+50108872 posted sonarr-fake-south-park-exe-stealer
+50108229 skipped off-topic
+50097843 skipped off-topic
+50097104 skipped AI human-interest piece
