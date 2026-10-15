@@ -504,3 +504,5 @@
 50095034 skipped off-topic (politics)
 50080450 skipped marginal Show HN repo page
 50097369 posted lfm2-5-24b-a2b-on-device-agents
+50097880 skipped off-topic
+50096477 skipped paywall (FT)
