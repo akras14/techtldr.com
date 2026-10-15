@@ -540,3 +540,12 @@
 50091875 skipped off-topic
 50102247 skipped off-topic
 50090932 skipped bare product page
+50104726 posted fortran-70-years-event
+50104299 posted reverse-engineer-hardware-claude-harness
+50104310 posted prompt-injection-http-headers
+50103630 skipped off-topic
+50104465 skipped off-topic
+50104654 skipped off-topic
+50103427 skipped not read in full this run
+50103263 skipped bare product page
+50097858 skipped off-topic
