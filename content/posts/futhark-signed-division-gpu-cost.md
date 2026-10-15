@@ -5,7 +5,6 @@ date: 2026-10-15T13:03:02+0000
 summary: "Futhark's generated C divided signed integers directly, so INT_MIN / -1 was undefined behaviour in C (and a CPU exception on x86). The fix adds a branch to every signed division. On the benchmark suite and on CPU there is no measurable cost, but a contrived division-bound CUDA program went from 5.5 ms to 12.6 ms."
 source: "https://futhark-lang.org/blog/2026-10-14-defining-division.html"
 source_title: "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases"
-source_author: "Troels Henriksen"
 source_site: "The Futhark Programming Language"
 source_date: "2026-10-14"
 hn_url: "https://news.ycombinator.com/item?id=50097797"
