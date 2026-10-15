@@ -549,3 +549,8 @@
 50103427 skipped not read in full this run
 50103263 skipped bare product page
 50097858 skipped off-topic
+50105344 skipped off-topic
+50105635 skipped off-topic
+50105647 skipped off-topic
+50105648 skipped bare product page
+50105777 skipped off-topic
