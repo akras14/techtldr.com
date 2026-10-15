@@ -580,3 +580,7 @@
 50108083 skipped off-topic (AI workforce feature piece)
 50108850 skipped off-topic
 50109715 skipped personal homelab service list, little to summarize
+50111112 skipped off-topic (vendor blog on call-center jobs)
+50109642 skipped off-topic
+50109796 skipped off-topic
+50100387 skipped bare repo landing page, little to summarize
