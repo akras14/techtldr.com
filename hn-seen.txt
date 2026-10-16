@@ -586,3 +586,11 @@
 50100387 skipped bare repo landing page, little to summarize
 50107165 skipped off-topic (consumer Windows news)
 50105086 skipped off-topic
+50112330 posted rpki-70-percent-routes-valid
+50111852 skipped blocked (Cloudflare challenge)
+50105495 skipped paywalled
+50112657 skipped off-topic
+50112380 skipped off-topic
+50111742 skipped off-topic
+50106285 skipped off-topic
+50108036 skipped off-topic (quantum)
