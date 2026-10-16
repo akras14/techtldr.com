@@ -669,3 +669,5 @@
 50122713 skipped off-topic
 50119752 skipped product landing page
 50118311 skipped opinion rant
+50119751 posted eufy-homebase2-wifi-password-uart-backdoor
+50118171 skipped opinion essay
