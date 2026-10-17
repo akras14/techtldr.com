@@ -691,3 +691,5 @@
 50129121 skipped bare model card page
 50128468 skipped off-topic
 50129274 skipped off-topic
+50121562 skipped no url
+50126538 skipped off-topic
