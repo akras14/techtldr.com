@@ -703,3 +703,8 @@
 50121506 skipped off-topic
 50131189 skipped bare landing page
 50132328 skipped off-topic
+50132950 posted linux-7-2-llm-bug-fixes
+50132502 posted openai-nineteen-misalignment-incidents
+50132278 skipped off-topic
+50132972 skipped off-topic
+50125976 skipped bare landing page
