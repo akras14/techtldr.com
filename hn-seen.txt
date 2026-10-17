@@ -717,3 +717,18 @@
 50130079 skipped paywalled ACM page
 50131006 skipped off-topic toy
 50133713 posted ai-code-verification-pipeline
+50126253 skipped off-topic
+50132870 skipped off-topic
+50126312 skipped off-topic
+50133274 skipped off-topic
+50133150 skipped off-topic
+50134617 skipped page unreachable (503)
+50134190 skipped off-topic
+50133830 skipped off-topic
+50133231 skipped bug report issue
+50133736 skipped off-topic
+50130228 skipped opinion, off-topic
+50126384 skipped bare product page
+50134608 skipped off-topic
+50133747 skipped off-topic
+50134241 skipped off-topic
