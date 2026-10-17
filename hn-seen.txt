@@ -708,3 +708,6 @@
 50132278 skipped off-topic
 50132972 skipped off-topic
 50125976 skipped bare landing page
+50133401 skipped thin tweet, no details yet
+50133500 skipped thin tweet
+50132193 skipped bare landing page
