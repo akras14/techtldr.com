@@ -693,3 +693,4 @@
 50129274 skipped off-topic
 50121562 skipped no url
 50126538 skipped off-topic
+50130570 skipped bare landing page
