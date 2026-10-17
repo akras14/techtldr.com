@@ -711,3 +711,8 @@
 50133401 skipped thin tweet, no details yet
 50133500 skipped thin tweet
 50132193 skipped bare landing page
+50132911 posted tsc-ts-typescript-port-native
+50127572 posted skeptics-first-contact-kubernetes-2024
+50127586 skipped bare repo
+50130079 skipped paywalled ACM page
+50131006 skipped off-topic toy
