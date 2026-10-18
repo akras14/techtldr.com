@@ -746,3 +746,7 @@
 50137620 skipped off-topic
 50137950 skipped bare product landing page
 50138044 skipped off-topic
+50138087 skipped old 2016 Q&A, borderline
+50137820 skipped Show HN demo page
+50138156 skipped off-topic
+50136378 skipped off-topic
