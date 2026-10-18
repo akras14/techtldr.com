@@ -781,3 +781,8 @@
 50142573 skipped off-topic, product-design opinion essay
 50142449 skipped off-topic, vintage chip microcode history
 50134623 skipped off-topic
+50142866 skipped reddit user complaint, unverified
+50143132 skipped bare product landing page
+50139636 skipped off-topic
+50138511 skipped paywall
+50136017 skipped video
