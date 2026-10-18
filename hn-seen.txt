@@ -744,3 +744,5 @@
 50134211 skipped unreadable page, math-results piece
 50132963 skipped bare product landing page
 50137620 skipped off-topic
+50137950 skipped bare product landing page
+50138044 skipped off-topic
