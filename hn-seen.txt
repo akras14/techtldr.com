@@ -797,3 +797,5 @@
 50136979 skipped off-topic
 50143876 skipped off-topic
 50142772 skipped off-topic, economics opinion
+50135762 posted killswitch-language-llm-adversarial-benchmark
+50145337 skipped research paper, marginal
