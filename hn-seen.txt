@@ -772,3 +772,8 @@
 50139998 skipped off-topic
 50138679 skipped off-topic
 50141909 skipped blocked page
+50141579 posted java-sealed-types-public-api-breakage
+50139083 posted opencode-breach-distillation-attack
+50140462 posted ai-agents-impossible-refund-benchmark
+50137257 skipped monthly project update, low value
+50141024 skipped off-topic
