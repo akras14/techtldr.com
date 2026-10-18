@@ -799,3 +799,7 @@
 50142772 skipped off-topic, economics opinion
 50135762 posted killswitch-language-llm-adversarial-benchmark
 50145337 skipped research paper, marginal
+50140784 posted vllm-kimi-k3-agent-optimized-decode-1-7x
+50141436 skipped bare product landing page
+50136150 skipped video, off-topic
+50145051 skipped off-topic
