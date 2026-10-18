@@ -792,3 +792,8 @@
 50143536 skipped off-topic
 50136124 skipped off-topic
 50144175 skipped opinion piece, thin
+50144405 skipped off-topic
+50144144 skipped off-topic
+50136979 skipped off-topic
+50143876 skipped off-topic
+50142772 skipped off-topic, economics opinion
