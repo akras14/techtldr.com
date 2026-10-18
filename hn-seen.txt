@@ -777,3 +777,7 @@
 50140462 posted ai-agents-impossible-refund-benchmark
 50137257 skipped monthly project update, low value
 50141024 skipped off-topic
+50143218 skipped off-topic
+50142573 skipped off-topic, product-design opinion essay
+50142449 skipped off-topic, vintage chip microcode history
+50134623 skipped off-topic
