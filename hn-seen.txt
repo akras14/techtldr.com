@@ -841,3 +841,5 @@
 50150862 skipped off-topic politics
 50152307 posted wine-openbsd-port-proposal
 50152970 skipped off-topic economics
+50152541 skipped bare repo landing page
+50147760 skipped little to summarize
