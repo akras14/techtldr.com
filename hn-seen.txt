@@ -814,3 +814,6 @@
 50146624 skipped off-topic
 50145295 skipped bare repo landing page
 50147492 posted superlite-claude-code-plugin-parallel-agents
+50148452 posted deepseek-v4-1-flash-1017-index-45
+50148441 skipped off-topic
+50148396 skipped bare repo landing page
