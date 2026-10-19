@@ -851,3 +851,8 @@
 50153630 skipped off-topic science
 50153403 skipped off-topic politics
 50154060 skipped off-topic robotics human-interest
+50155245 posted mercury-3-diffusion-llm-1000-tokens-per-second
+50154540 posted minimax-m3-1-flash-agent-model-70-percent-cheaper
+50155291 skipped off-topic EV sales
+50151980 skipped bare product landing page
+50154029 skipped launch HN product landing page
