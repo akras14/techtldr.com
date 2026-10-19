@@ -803,3 +803,5 @@
 50141436 skipped bare product landing page
 50136150 skipped video, off-topic
 50145051 skipped off-topic
+50145715 skipped bare repo landing page
+50141386 skipped off-topic
