@@ -830,3 +830,6 @@
 50145715 skipped bare repo page
 50141436 skipped product landing page
 50142772 skipped off-topic economics
+50150750 skipped off-topic politics
+50150927 skipped off-topic science
+50151390 skipped book index repo, little to summarize
