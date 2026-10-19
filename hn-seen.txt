@@ -843,3 +843,11 @@
 50152970 skipped off-topic economics
 50152541 skipped bare repo landing page
 50147760 skipped little to summarize
+50152877 posted cairn-ai-agents-breach-100-sites
+50152321 posted plex-rce-exploited-cryptominer
+50154518 skipped personal opinion rant, accusations against an individual
+50153431 skipped blocked page
+50153934 skipped status page, little to summarize
+50153630 skipped off-topic science
+50153403 skipped off-topic politics
+50154060 skipped off-topic robotics human-interest
