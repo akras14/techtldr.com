@@ -864,3 +864,10 @@
 50154244 posted deepseek-banned-us-federal-civilian-agencies
 50152466 skipped bare product landing page
 50150089 skipped video
+50152302 skipped duplicate of cairn-ai-agents-breach-100-sites (added as also-covered)
+50155907 posted cloudflare-clairic-extraction-model
+50156189 skipped duplicate of deepseek-banned-us-federal-civilian-agencies
+50153664 skipped off-topic
+50155643 skipped off-topic
+50152041 skipped off-topic
+50154147 skipped video
