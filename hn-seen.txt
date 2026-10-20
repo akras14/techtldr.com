@@ -945,3 +945,10 @@
 50169053 skipped bare repo landing page
 50159683 skipped off-topic
 50159538 skipped off-topic
+50168096 skipped off-topic
+50169707 skipped off-topic
+50167505 skipped off-topic
+50167583 skipped no url
+50167295 skipped off-topic
+50162510 skipped off-topic
+50160116 skipped ask hn
