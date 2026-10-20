@@ -891,3 +891,7 @@
 50158942 skipped off-topic consumer Android TV
 50153531 posted code-is-clay-agentic-coding
 50160289 skipped off-topic health
+50160494 posted openbsd-8-0-release
+50156132 posted nist-curve-seeds-not-backdoored
+50159765 skipped off-topic consumer TVs
+50155647 skipped bare repo, little to summarize
