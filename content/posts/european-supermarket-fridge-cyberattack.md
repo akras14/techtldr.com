@@ -7,8 +7,7 @@ source: "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented
 source_title: "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting"
 source_site: "Tom's Hardware"
 source_date: "2026-10-12"
-aliases:
-  - "/france-fridge-controllers-exposed-online"
+aliases: ["/france-fridge-controllers-exposed-online/"]
 hn_url: "https://news.ycombinator.com/item?id=50055304"
 ---
 
