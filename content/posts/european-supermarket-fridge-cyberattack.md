@@ -7,6 +7,8 @@ source: "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented
 source_title: "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting"
 source_site: "Tom's Hardware"
 source_date: "2026-10-12"
+aliases:
+  - "/france-fridge-controllers-exposed-online"
 hn_url: "https://news.ycombinator.com/item?id=50055304"
 ---
 
@@ -17,3 +19,5 @@ hn_url: "https://news.ycombinator.com/item?id=50055304"
 **Netherlands/Belgium.** NOS reports a Sunday-afternoon cybersecurity incident at Albert Heijn, Etos and Gall & Gall: websites went down (affecting deliveries), electronic shelf labels were compromised (pricing problems) and loyalty programs were suspended. Albert Heijn shut down some systems as a precaution; Delhaize in Belgium is also disrupted.
 
 Details on the attack vector are not yet public.
+
+**Also covered by** [IPinfo, "France's Supermarket Fridges Were Vulnerable Online for Months"](https://ipinfo.io/blog/france-fridges-hack) ([HN](https://news.ycombinator.com/item?id=50159616)): its internet scans found 1,331 Danfoss StoreView dashboards exposed in France on October 6-7, more than the other 72 countries combined (1,197). 85% ran software with known flaws, 527 were end-of-life controllers, and most had been online at the same address since March. 400+ French stores were ultimately hit, and CERT-FR says campaigns are probably ongoing.

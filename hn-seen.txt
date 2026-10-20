@@ -881,7 +881,7 @@
 50157865 posted one-hash-bloom-filters
 50153225 posted agentic-monitoring
 50156744 skipped off-topic essay on software industry economics
-50159616 posted france-fridge-controllers-exposed-online
+50159616 skipped duplicate of european-supermarket-fridge-cyberattack (merged as also-covered-by)
 50159464 skipped bare rankings page
 50158408 skipped Drupal talk, low relevance
 50154982 skipped off-topic math
