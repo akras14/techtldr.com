@@ -885,3 +885,7 @@
 50159464 skipped bare rankings page
 50158408 skipped Drupal talk, low relevance
 50154982 skipped off-topic math
+50159245 posted backdoored-open-model-exfiltrates-codex
+50159341 posted whatsapp-hidden-ai-instructions
+50159993 skipped off-topic politics
+50158942 skipped off-topic consumer Android TV
