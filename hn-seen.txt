@@ -906,3 +906,8 @@
 50162198 posted vite-plus-ai-agent-workflow
 50159914 skipped vendor privacy marketing post, off-topic
 50157233 posted terminal-bench-4-audit
+50163277 posted deepseek-deepinfer-open-source-inference
+50163502 skipped off-topic
+50162177 skipped bare repo wiki page
+50162860 skipped off-topic, paywall
+50158684 skipped off-topic
