@@ -1,0 +1,20 @@
+---
+title: "Private keys of eight eMudhra intermediate CAs compromised; update trust stores"
+slug: "emudhra-intermediate-ca-keys-compromised"
+date: 2026-10-20T15:02:54+0000
+summary: "The private keys of eight eMudhra intermediate CA certificates, chained to roots trusted by Mozilla, Microsoft, Apple and Chrome, were shown to be compromised. Anyone holding a key could impersonate any website. Browsers have blocked the certificates, but clients that ignore revocation data need software updates."
+source: "https://emudhra.we-have-a-problem.com/"
+source_title: "eMudhra Intermediate CA Compromise"
+source_author: "Dennis Jackson"
+source_site: "we-have-a-problem.com"
+source_date: "2026-10-20"
+hn_url: "https://news.ycombinator.com/item?id=50166579"
+---
+
+**Bottom line:** Eight eMudhra intermediate CA keys are compromised, so an attacker could impersonate any site to clients that still trust them. Browsers and OS vendors have already blocked them; the rest of the ecosystem needs updates.
+
+- **Proof.** The original reporter ("Wayne") signed a message with each of the eight keys and reported it to the root programs on Oct 17. The site includes OpenSSL commands to verify.
+- **Timeline.** Blocked in Firefox and Chrome Oct 17, Apple Oct 19, Microsoft Oct 20, via OneCRL, CRLite and CRLSets. The CA has also revoked the certificates.
+- **Gap.** Clients that don't consume revocation data need software updates. Patched versions listed include Go 1.27.3 / 1.26.10, Electron 44.9.1 / 43.8.1 / 42.11.16, Python certifi 2026.10.19, rustls-webpki 0.103.16, webpki-roots 1.0.10, and NSS 3.131.1. Node.js and Composer ca-bundle are pending.
+- **Linux workaround for experts.** Until distros ship updated ca-certificates, distrust the emSign ECC Root CA - G3 and Comodo AAA Services roots in the system store. The page has per-distro commands (Debian/Ubuntu, Alpine, Fedora family, SUSE, Arch, NixOS). It is not recommended for ordinary users.
+- The page also has a client self-test and a JSON list of affected certificates with fingerprints.
