@@ -895,3 +895,7 @@
 50156132 posted nist-curve-seeds-not-backdoored
 50159765 skipped off-topic consumer TVs
 50155647 skipped bare repo, little to summarize
+50151036 skipped Ask HN
+50160877 skipped issue page unreadable, little to summarize
+50160135 skipped off-topic design essay
+50160419 skipped duplicate of openbsd-8-0-release
