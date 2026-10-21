@@ -1009,3 +1009,4 @@
 50171533 skipped paywall (WSJ)
 50177911 skipped off-topic
 50177916 skipped duplicate of emudhra-intermediate-ca-keys-compromised (added as also-covered)
+50174221 skipped bare homepage notice, little to summarize
