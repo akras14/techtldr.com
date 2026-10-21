@@ -1027,3 +1027,10 @@
 50181137 skipped off-topic
 50181175 skipped page blocked (403)
 50181265 skipped page unreadable
+50181114 posted litellm-1-107-0-pypi-credential-stealer
+50182130 skipped off-topic status incident
+50180752 skipped off-topic
+50181058 skipped duplicate of php2shell-rce-every-php-version
+50182526 skipped off-topic
+50180039 skipped bare repo landing page
+50173449 skipped off-topic
