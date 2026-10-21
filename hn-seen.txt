@@ -1022,3 +1022,8 @@
 50180444 skipped off-topic
 50179857 skipped bare product landing page
 50179131 skipped off-topic
+50180836 posted php2shell-rce-every-php-version
+50181136 posted duckdb-2-0-lts-release
+50181137 skipped off-topic
+50181175 skipped page blocked (403)
+50181265 skipped page unreadable
