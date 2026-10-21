@@ -1014,3 +1014,5 @@
 50176088 skipped off-topic
 50175062 skipped duplicate of emudhra-intermediate-ca-keys-compromised
 50172793 skipped off-topic
+50179828 skipped duplicate of php-critical-security-release-oct-21
+50177734 skipped off-topic
