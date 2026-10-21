@@ -1080,3 +1080,7 @@
 50184577 skipped off-topic
 50185129 skipped duplicate of Meta penalty story (off-topic)
 50183100 skipped off-topic
+50188228 posted railway-env-vars-breach-roll-secrets
+50181486 skipped duplicate of php2shell-rce-every-php-version (added as also-covered-by)
+50187077 skipped off-topic
+50185774 skipped off-topic
