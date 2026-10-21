@@ -972,3 +972,8 @@
 50172448 skipped off-topic
 50172246 skipped off-topic court case
 50171986 skipped duplicate of emudhra-intermediate-ca-keys-compromised
+50173487 skipped accusations against private individual
+50172041 skipped duplicate of php-critical-security-release-oct-21
+50173891 skipped off-topic
+50166062 skipped off-topic
+50161144 skipped product landing page
