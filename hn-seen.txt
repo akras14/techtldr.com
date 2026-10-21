@@ -1059,3 +1059,14 @@
 50184820 skipped off-topic
 50183512 skipped off-topic
 50176908 skipped bare product landing page
+50186129 skipped duplicate of mistral-large-4
+50186037 posted claude-duet-proactive-agent
+50185869 posted gitlab-regex-rce-cvss-10
+50185630 skipped bare product landing page
+50185438 skipped vague mission page, little to summarize
+50186318 skipped off-topic
+50182960 skipped off-topic
+50186010 skipped style guide, low news value
+50185218 skipped off-topic
+50186043 skipped off-topic
+50185403 skipped off-topic
