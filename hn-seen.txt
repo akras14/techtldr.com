@@ -1016,3 +1016,9 @@
 50172793 skipped off-topic
 50179828 skipped duplicate of php-critical-security-release-oct-21
 50177734 skipped off-topic
+50179706 posted qwen3-coder-weaker-code-us-customers
+50180873 skipped duplicate of php-critical-security-release-oct-21
+50180943 skipped duplicate of php-critical-security-release-oct-21
+50180444 skipped off-topic
+50179857 skipped bare product landing page
+50179131 skipped off-topic
