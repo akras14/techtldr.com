@@ -1,8 +1,8 @@
 ---
-title: "Three commands put your macOS SSH key in the Secure Enclave behind Touch ID"
+title: "Three commands to put your SSH key in the Mac Secure Enclave"
 slug: "ssh-keys-secure-enclave-touch-id-macos"
-date: 2026-10-21T17:05:00+0000
-summary: "Nicolas Mattia shows how to create a non-extractable SSH identity in the Mac's Secure Enclave using the built-in sc_auth tool and Apple's ssh-keychain.dylib, so every SSH or git-over-SSH login asks for Touch ID and no private key file exists. The catch: the key dies with the machine, and the interface is largely undocumented."
+date: 2026-10-21T07:02:51+0000
+summary: "macOS can hold an SSH identity inside the Secure Enclave, where it can't be extracted and every use requires Touch ID. Setup is three commands using Apple's built-in sc_auth and ssh-keychain.dylib, and it works for git over SSH including GitHub. The catch: the key dies with the machine, and you must re-add it to the agent after each reboot."
 source: "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
 source_title: "Setting up SSH keys on macOS with Touch ID"
 source_author: "Nicolas Mattia"
@@ -11,10 +11,23 @@ source_date: "2026-10-19"
 hn_url: "https://news.ycombinator.com/item?id=50175882"
 ---
 
-macOS can hold an SSH identity inside the Secure Enclave where it can't be extracted, and each use needs a fingerprint. No `~/.ssh/id_*` files to steal or delete.
+**Bottom line:** macOS can generate an SSH identity inside the Secure Enclave that can't be extracted, never exists as a key file, and prompts for Touch ID on every use. It takes three commands and works for git over SSH, including GitHub.
 
-- **Create it:** `sc_auth create-ctk-identity -l ssh-key -k p-256-ne -t bio`. `p-256-ne` is non-extractable and the only curve here that OpenSSH supports; `-t bio` requires Touch ID (`none` skips the prompt but the key still can't be extracted).
-- **Load it:** `ssh-add -K -S /usr/lib/ssh-keychain.dylib`, and repeat after every reboot. An empty PIN at the prompt is fine, since security comes from Touch ID, not a PIN.
-- **Register it:** `ssh-add -L` prints the `sk-ecdsa-sha2-nistp256...` public key to add to GitHub or any server. After that, `git push` triggers a Touch ID prompt.
-- **How it works:** `ssh-keychain.dylib` is a FIDO-style security-key provider exposing `sk_load_resident_keys` and `sk_sign`; the agent calls them to list public keys and sign the server's challenge inside the enclave.
-- **Caveats:** a dead Mac means a dead identity, so re-register elsewhere. The author derived this from experimentation and a community gist, notes much of it is undocumented, and didn't test multiple FIDO authenticators.
+## Setup
+
+1. Create the identity (once): `sc_auth create-ctk-identity -l ssh-key -k p-256-ne -t bio`
+2. Tell SSH to use it (after every reboot, press enter at the PIN prompt): `ssh-add -K -S /usr/lib/ssh-keychain.dylib`
+3. Get the public key to register on a server: `ssh-add -L`, and use the line starting with `sk-ecdsa-sha2-nistp256`.
+
+After that, `git push` triggers a Touch ID prompt.
+
+## Details worth knowing
+
+- `p-256-ne` is the only key type that works here: the `-ne` suffix means non-extractable, and OpenSSH doesn't support the p-384 option.
+- `-t bio` requires biometrics per use. `-t none` still prevents extraction but lets programs sign silently, which avoids prompts on every `git pull`.
+- Apple's `ssh-keychain.dylib` acts as a translation layer, so ssh-add treats the enclave identity like a FIDO-style authenticator.
+- Much of this is undocumented; the author pieced it together from other write-ups, man pages and experiments.
+
+## Trade-offs
+
+The key can't be backed up or moved, so if the Mac dies you create a new identity and re-register it everywhere. The agent also forgets the identity on reboot.

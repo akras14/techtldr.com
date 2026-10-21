@@ -998,7 +998,7 @@
 50175401 skipped off-topic
 50174541 skipped off-topic
 50167657 skipped bare Show HN project page
-50175882 posted ssh-keys-secure-enclave-touch-id-macos
+50175882 skipped duplicate of ssh-keys-secure-enclave-touch-id-macos (already posted)
 50176351 skipped weak newsletter source for DeepSeek pricing claim
 50176301 skipped off-topic
 50170407 skipped off-topic
@@ -1036,7 +1036,7 @@
 50173449 skipped off-topic
 50182987 posted php-foundation-oom-fix-stalled-two-years
 50181326 posted cloudflare-php2shell-waf-full-transaction-detection
-50175882 posted ssh-keys-secure-enclave-touch-id-macos
+50175882 skipped duplicate of ssh-keys-secure-enclave-touch-id-macos (already posted)
 50180079 skipped page blocked (JS wall)
 50172246 skipped off-topic
 50171077 skipped off-topic
