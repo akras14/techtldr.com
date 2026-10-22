@@ -1110,3 +1110,5 @@
 50190363 posted worldtui-360m-model-pretends-to-be-terminal
 50189978 skipped duplicate of texas-data-centers-air-pollution-harc
 50191507 skipped bare repo
+50188614 posted postgres-recovery-prefetch-outages
+50190357 skipped product announcement, off-topic
