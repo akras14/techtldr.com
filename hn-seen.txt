@@ -1099,3 +1099,8 @@
 50189801 skipped off-topic
 50185083 skipped off-topic sponsor post
 50189055 skipped off-topic
+50176082 posted llm-confidence-scores-uncalibrated
+50188612 posted qpack-header-accordion-http3-dos
+50190455 skipped off-topic math
+50189278 skipped off-topic
+50187659 skipped off-topic bare repo
