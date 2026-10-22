@@ -1094,3 +1094,8 @@
 50189023 skipped unreadable pr page, off-topic
 50185902 skipped advocacy piece on local permitting, marginal
 50183678 skipped bare product page, unreadable
+50190168 skipped off-topic legal ruling
+50189666 skipped off-topic, paywall
+50189801 skipped off-topic
+50185083 skipped off-topic sponsor post
+50189055 skipped off-topic
