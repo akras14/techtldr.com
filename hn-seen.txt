@@ -1148,3 +1148,9 @@
 50196604 skipped off-topic
 50198675 skipped bare repo page
 50198940 skipped off-topic
+50199757 skipped thin social post, little to summarize
+50199389 skipped off-topic
+50199290 skipped bare product page
+50199232 skipped off-topic
+50199230 skipped off-topic
+50199277 skipped off-topic
