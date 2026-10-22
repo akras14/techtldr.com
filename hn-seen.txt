@@ -1119,3 +1119,5 @@
 50192900 skipped duplicate of emudhra-intermediate-ca-keys-compromised (NVD entry)
 50193170 posted earstrip-ear-clipping-faster-than-earcut
 50192868 skipped promotional AI architecture claims
+50193804 posted linux-kernel-zdi-vulns-posted-to-public-list
+50192536 skipped off-topic gaming console jailbreak
