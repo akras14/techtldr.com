@@ -1117,3 +1117,5 @@
 50182225 skipped off-topic politics
 50180799 skipped off-topic gaming
 50192900 skipped duplicate of emudhra-intermediate-ca-keys-compromised (NVD entry)
+50193170 posted earstrip-ear-clipping-faster-than-earcut
+50192868 skipped promotional AI architecture claims
