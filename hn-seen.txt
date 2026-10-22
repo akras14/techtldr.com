@@ -1138,3 +1138,9 @@
 50194824 posted fly-sprites-block-device-replaces-juicefs
 50194283 skipped off-topic
 50195873 skipped off-topic
+50196837 skipped blocked page (techspot)
+50196718 skipped bare repo page
+50197601 skipped landing page, little to summarize
+50197533 skipped off-topic
+50193581 skipped off-topic
+50197404 skipped off-topic
