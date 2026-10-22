@@ -1121,3 +1121,6 @@
 50192868 skipped promotional AI architecture claims
 50193804 posted linux-kernel-zdi-vulns-posted-to-public-list
 50192536 skipped off-topic gaming console jailbreak
+50194070 posted php2shell-exploited-four-days-before-disclosure
+50194009 skipped off-topic gaming
+50193416 skipped no URL (Tell HN)
