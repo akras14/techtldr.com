@@ -1112,3 +1112,7 @@
 50191507 skipped bare repo
 50188614 posted postgres-recovery-prefetch-outages
 50190357 skipped product announcement, off-topic
+50192254 skipped off-topic opinion
+50189175 skipped product landing page
+50182225 skipped off-topic politics
+50180799 skipped off-topic gaming
