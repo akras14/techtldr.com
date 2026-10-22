@@ -1124,3 +1124,5 @@
 50194070 posted php2shell-exploited-four-days-before-disclosure
 50194009 skipped off-topic gaming
 50193416 skipped no URL (Tell HN)
+50194833 skipped off-topic (Cash App prison story)
+50189292 posted nodejs-brotli-decoder-rce-patch
