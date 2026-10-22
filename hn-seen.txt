@@ -1106,3 +1106,6 @@
 50187659 skipped off-topic bare repo
 50190334 skipped off-topic gaming
 50185640 skipped bare repo
+50190959 posted powershell-over-bash-for-scripting
+50190363 posted worldtui-360m-model-pretends-to-be-terminal
+50189978 skipped duplicate of texas-data-centers-air-pollution-harc
