@@ -1091,3 +1091,6 @@
 50188948 skipped duplicate of php2shell-rce-every-php-version
 50189150 skipped off-topic
 50183892 skipped bare repo landing page
+50189023 skipped unreadable pr page, off-topic
+50185902 skipped advocacy piece on local permitting, marginal
+50183678 skipped bare product page, unreadable
