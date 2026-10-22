@@ -1116,3 +1116,4 @@
 50189175 skipped product landing page
 50182225 skipped off-topic politics
 50180799 skipped off-topic gaming
+50192900 skipped duplicate of emudhra-intermediate-ca-keys-compromised (NVD entry)
