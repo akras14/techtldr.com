@@ -1084,3 +1084,6 @@
 50181486 skipped duplicate of php2shell-rce-every-php-version (added as also-covered-by)
 50187077 skipped off-topic
 50185774 skipped off-topic
+50188443 skipped thin advisory page, little to summarize
+50185196 skipped off-topic
+50177413 skipped duplicate of railway-env-vars-breach-roll-secrets (status page)
