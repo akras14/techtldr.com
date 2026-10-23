@@ -1214,3 +1214,8 @@
 50208258 skipped off-topic
 50209961 skipped off-topic
 50210067 skipped duplicate of emudhra-intermediate-ca-keys-compromised (added as also-covered-by)
+50211474 skipped demo videos only, little to summarize
+50210075 skipped off-topic
+50207620 skipped product marketing page
+50211601 skipped social post, little to summarize
+50207105 skipped off-topic
