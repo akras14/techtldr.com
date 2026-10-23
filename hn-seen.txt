@@ -1196,3 +1196,8 @@
 50202865 skipped bare repo landing page
 50206586 skipped off-topic
 50206361 skipped opinion rant, little substance
+50206914 skipped off-topic
+50206177 skipped off-topic
+50207115 skipped opinion roundup of incidents already covered
+50205816 skipped no readable source (huge diff PR)
+50206840 skipped off-topic
