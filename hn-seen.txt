@@ -1173,3 +1173,6 @@
 50203161 skipped page unreachable (TLS/503)
 50201821 skipped off-topic
 50202671 skipped paywall
+50202912 skipped off-topic
+50202609 skipped off-topic
+50202762 skipped bare project landing page
