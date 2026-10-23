@@ -1194,3 +1194,5 @@
 50204926 skipped off-topic
 50205531 skipped blocked page
 50202865 skipped bare repo landing page
+50206586 skipped off-topic
+50206361 skipped opinion rant, little substance
