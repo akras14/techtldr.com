@@ -1162,3 +1162,7 @@
 50201259 skipped off-topic
 50200843 skipped off-topic poll
 50198936 skipped bare repo page
+50194909 skipped no url, duplicate
+50200997 skipped Ask HN
+50201414 skipped off-topic
+50194138 skipped off-topic
