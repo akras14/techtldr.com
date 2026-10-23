@@ -1169,3 +1169,7 @@
 50202217 posted claude-proves-123-libraries-no-crash-riscv
 50202681 posted docker-is-weird-own-container-runtime
 50201264 skipped off-topic
+50200592 posted texas-steers-portal-down-data-center-permits
+50203161 skipped page unreachable (TLS/503)
+50201821 skipped off-topic
+50202671 skipped paywall
