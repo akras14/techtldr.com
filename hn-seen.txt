@@ -1247,3 +1247,5 @@
 50214055 skipped off-topic
 50214185 skipped off-topic
 50212124 posted metastable-failures-postgres-etcd-animations
+50215530 skipped bare product page
+50214325 skipped unreadable product release page
