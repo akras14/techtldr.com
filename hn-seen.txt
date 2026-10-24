@@ -1280,3 +1280,6 @@
 50218633 skipped reddit link, AI incident piece
 50217946 skipped off-topic
 50215398 skipped off-topic
+50217495 skipped off-topic, social post
+50214175 skipped off-topic
+50208868 skipped off-topic
