@@ -1267,3 +1267,7 @@
 50217500 posted rqlite-twelve-years
 50214523 skipped off-topic
 50213118 skipped off-topic
+50218195 posted roc-deflate-near-libdeflate
+50217600 skipped off-topic
+50218404 skipped off-topic
+50210935 skipped old moreutils article, little to summarize
