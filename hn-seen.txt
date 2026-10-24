@@ -1305,3 +1305,13 @@
 50224074 skipped paywall/blocked (Reuters)
 50223647 skipped off-topic, linguistics paper
 50223844 skipped off-topic, government IT politics
+50224300 posted goose-language-no-heap
+50224463 skipped off-topic, economics
+50224422 skipped off-topic, radio/nuclear
+50224916 skipped bare challenge landing page
+50223752 skipped off-topic, health science
+50222574 skipped off-topic, surveillance politics
+50223580 skipped off-topic, gadget news
+50222283 skipped off-topic, math
+50221213 skipped off-topic, aviation
+50220891 skipped off-topic, physics
