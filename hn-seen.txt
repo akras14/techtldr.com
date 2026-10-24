@@ -1293,3 +1293,6 @@
 50220913 skipped off-topic, politics
 50221179 skipped off-topic, game remaster
 50219700 skipped bare repo page
+50221676 skipped off-topic, tabloid rehash of Guardian environmental story
+50222133 skipped bare product page
+50220042 skipped bare repo page
