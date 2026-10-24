@@ -1252,3 +1252,12 @@
 50214983 posted systemd-nspawn-containers-tour
 50214994 skipped paywall/blocked (Cloudflare)
 50215587 skipped off-topic
+50215983 posted google-voltus-1gw-virtual-power-plant
+50216791 skipped tweet-only source, advisory unreadable
+50207180 skipped advisory page unreadable (same Brotli CVE as 50216791)
+50216142 skipped off-topic
+50214373 skipped bare product landing page
+50215695 skipped off-topic
+50213791 skipped off-topic
+50211084 skipped off-topic
+50214643 skipped off-topic
