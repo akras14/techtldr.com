@@ -1298,3 +1298,5 @@
 50220042 skipped bare repo page
 50222622 skipped JS-rendered page, could not read in full
 50222525 skipped off-topic, neuroscience
+50222976 skipped page blocked, could not read in full
+50222927 skipped off-topic, coin/tortoise
