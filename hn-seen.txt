@@ -1315,3 +1315,5 @@
 50222283 skipped off-topic, math
 50221213 skipped off-topic, aviation
 50220891 skipped off-topic, physics
+50224210 skipped bare product landing page
+50219875 skipped anecdotal tweet, no substance
