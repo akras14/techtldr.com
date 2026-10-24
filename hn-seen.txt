@@ -1287,3 +1287,6 @@
 50219186 skipped product landing page
 50215950 skipped unreadable page
 50212079 skipped off-topic, social post
+50219177 posted brotli-cve-2026-111497-http2shell
+50216791 skipped duplicate of brotli-cve-2026-111497-http2shell
+50220204 skipped off-topic, AI incident piece
