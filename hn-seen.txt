@@ -1290,3 +1290,4 @@
 50219177 skipped duplicate of nodejs-brotli-decoder-rce-patch (added as also-covered)
 50216791 skipped duplicate of nodejs-brotli-decoder-rce-patch
 50220204 skipped off-topic, AI incident piece
+50220913 skipped off-topic, politics
