@@ -1271,3 +1271,7 @@
 50217600 skipped off-topic
 50218404 skipped off-topic
 50210935 skipped old moreutils article, little to summarize
+50218430 skipped off-topic
+50217903 skipped bare product landing page
+50213701 skipped off-topic
+50215828 skipped video
