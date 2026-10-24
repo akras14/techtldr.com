@@ -1275,3 +1275,8 @@
 50217903 skipped bare product landing page
 50213701 skipped off-topic
 50215828 skipped video
+50215925 posted humanlayer-open-sourced-apache-2
+50218277 posted emudhra-intermediate-ca-keys-compromised (added as also-covered)
+50218633 skipped reddit link, AI incident piece
+50217946 skipped off-topic
+50215398 skipped off-topic
