@@ -1355,3 +1355,5 @@
 50232312 skipped off-topic, finance data viz
 50231189 skipped tweet only, TV privacy
 50230995 skipped tweet only, opinion
+50232035 skipped off-topic
+50233304 skipped off-topic, education human-interest
