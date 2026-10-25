@@ -1371,3 +1371,7 @@
 50235217 skipped off-topic, health
 50233883 skipped off-topic, culture
 50233828 skipped off-topic, science
+50235017 skipped off-topic, personal essay
+50235316 skipped thin opinion piece, little to summarize
+50233020 skipped video
+50227330 skipped bare model page, off-topic
