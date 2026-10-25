@@ -1345,3 +1345,6 @@
 50225443 posted blog-markdown-llms-txt-for-agents
 50230384 skipped off-topic, game repo landing page
 50229827 skipped off-topic, AI human-interest incident
+50230917 skipped off-topic
+50230965 skipped off-topic, personal essay
+50231001 skipped off-topic
