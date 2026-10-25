@@ -1323,3 +1323,7 @@
 50224691 skipped off-topic, solar/culture, paywalled
 50226419 skipped off-topic, economics
 50221653 skipped off-topic, tweet
+50226434 skipped off-topic, consumer hardware
+50225674 skipped link-list page, little to summarize
+50225663 skipped off-topic, creativity essay
+50226577 skipped off-topic, gopher blog
