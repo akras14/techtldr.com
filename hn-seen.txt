@@ -1379,3 +1379,5 @@
 50235010 posted gheist-github-token-secret-dumping
 50235738 skipped off-topic, animation
 50233438 skipped spec reference, little to summarize
+50236102 posted llm-price-cuts-open-weight-pressure
+50235780 posted context-inertia-state-of-context-engineering
