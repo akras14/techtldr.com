@@ -1357,3 +1357,9 @@
 50230995 skipped tweet only, opinion
 50232035 skipped off-topic
 50233304 skipped off-topic, education human-interest
+50232682 skipped opinion blog, little substance
+50233929 skipped off-topic, politics
+50233779 skipped off-topic, medical
+50233775 skipped off-topic, gaming
+50233347 skipped off-topic
+50231166 skipped status page, no substance
