@@ -1338,3 +1338,5 @@
 50226665 skipped off-topic, movie review
 50227611 skipped off-topic, Starlink Ukraine politics
 50225485 skipped off-topic, healthcare billing
+50229587 skipped off-topic, politics
+50229599 skipped off-topic, culture
