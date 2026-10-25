@@ -1317,3 +1317,9 @@
 50220891 skipped off-topic, physics
 50224210 skipped bare product landing page
 50219875 skipped anecdotal tweet, no substance
+50225695 posted dan-luu-more-ambitious-software
+50223777 skipped client-rendered page, no readable text
+50225748 skipped bare product landing page
+50224691 skipped off-topic, solar/culture, paywalled
+50226419 skipped off-topic, economics
+50221653 skipped off-topic, tweet
