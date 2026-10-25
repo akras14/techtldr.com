@@ -1,5 +1,5 @@
 ---
-title: "Brotli's Google-maintained C library took 237 days to ship a fix for an out-of-bounds write"
+title: "Brotli's Google-maintained C library sat unreleased for eight months after an out-of-bounds fix"
 slug: "brotli-security-maintenance-bugsink"
 date: 2026-10-25T20:05:00+0000
 summary: "Bugsink's author argues Brotli is too poorly maintained to trust with untrusted input. The decoder memory-corruption bug behind the Node.js RCE was fixed in the repo on February 27, 2026 but only released on October 21; a 2025 decompression-bomb fix likewise sat unreleased for 283 days and shipped with no documentation on how to use it. Three out-of-bounds reads are open as pull requests, and releases happen whenever the single maintainer has time. His advice: add an option to turn Brotli decoding off, and ask whether you need to support it at all."
