@@ -1453,3 +1453,14 @@
 50248055 skipped off-topic, Windows trivia
 50248012 skipped off-topic, economics
 50248614 skipped off-topic, politics
+50248665 skipped off-topic, helium policy
+50249275 skipped off-topic, politics
+50247928 skipped off-topic, von Neumann book review
+50248075 skipped GPT-6.1 Terra model docs page, thin
+50249076 skipped GPT-6.1 Terra benchmark page, thin
+50249293 skipped Show HN product page
+50249616 posted blackx-uefi-bootkit-baton-drop
+50249800 posted convex-typescript-to-wasm-compiler
+50249449 skipped repo landing page
+50247677 posted nvidia-per-gpu-software-fee
+50247597 skipped off-topic, obituary
