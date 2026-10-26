@@ -1393,3 +1393,6 @@
 50234699 skipped off-topic, economics
 50236506 skipped mailing list thread, little to summarize
 50235639 skipped off-topic, company culture
+50238088 posted ibm-ceo-open-weight-models-on-prem
+50237896 skipped off-topic, hardware teardown
+50234589 skipped off-topic, politics/privacy
