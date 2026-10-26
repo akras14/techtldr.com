@@ -1404,3 +1404,4 @@
 50238739 skipped bare repo, little to summarize
 50238763 skipped off-topic, photo exhibit
 50238351 skipped off-topic, economics, paywall
+50238620 skipped low-quality content-farm article
