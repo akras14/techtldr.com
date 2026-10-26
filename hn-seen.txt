@@ -1424,3 +1424,6 @@
 50243061 skipped off-topic, Apple hardware
 50242843 skipped off-topic, AI labor research news
 50241925 posted pharo-14-rise-of-new-tools-and-risc-v-jit
+50245138 skipped course promo, little to summarize
+50245524 skipped off-topic, Microsoft layoffs business news
+50245385 skipped off-topic, energy
