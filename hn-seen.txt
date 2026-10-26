@@ -1442,3 +1442,14 @@
 50247630 skipped off-topic, AI human-interest
 50245135 skipped off-topic, economics
 50247602 skipped off-topic, spam
+50248371 posted pylance-type-server-protocol
+50248422 posted retrieval-bottleneck-selecting
+50248124 skipped paywall/blocked (openai.com)
+50248061 skipped off-topic, politics
+50247493 skipped off-topic, bare repo
+50248207 skipped bare repo landing page
+50248825 skipped off-topic, defense
+50248005 skipped off-topic, surveillance
+50248055 skipped off-topic, Windows trivia
+50248012 skipped off-topic, economics
+50248614 skipped off-topic, politics
