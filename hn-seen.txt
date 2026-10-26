@@ -1475,3 +1475,19 @@
 50249953 skipped off-topic opinion
 50250609 skipped no content
 50250557 skipped off-topic
+50251070 posted batch-file-current-directory
+50250910 posted tokenizer-tax-non-english
+50250937 skipped off-topic
+50248197 skipped off-topic
+50251344 skipped thin press post
+50251223 skipped off-topic
+50244265 skipped off-topic
+50248443 skipped off-topic
+50248763 skipped off-topic
+50240465 skipped off-topic
+50237019 skipped off-topic
+50250764 skipped off-topic
+50250279 skipped off-topic
+50250087 skipped off-topic
+50244410 skipped off-topic
+50239041 skipped bare product page
