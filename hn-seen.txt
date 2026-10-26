@@ -1399,3 +1399,8 @@
 50237712 skipped personal blog post, promotes own product, thin
 50237379 skipped bare repo, little to summarize
 50238557 skipped off-topic, politics
+50238708 skipped off-topic, novelty tool
+50238884 skipped off-topic, economics
+50238739 skipped bare repo, little to summarize
+50238763 skipped off-topic, photo exhibit
+50238351 skipped off-topic, economics, paywall
