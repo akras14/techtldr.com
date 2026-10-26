@@ -1406,3 +1406,5 @@
 50238351 skipped off-topic, economics, paywall
 50238620 skipped low-quality content-farm article
 50239027 skipped opinion essay, off-topic
+50238242 skipped off-topic, demographics
+50234028 skipped off-topic, fiction pdf
