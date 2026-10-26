@@ -1396,3 +1396,6 @@
 50238088 posted ibm-ceo-open-weight-models-on-prem
 50237896 skipped off-topic, hardware teardown
 50234589 skipped off-topic, politics/privacy
+50237712 skipped personal blog post, promotes own product, thin
+50237379 skipped bare repo, little to summarize
+50238557 skipped off-topic, politics
