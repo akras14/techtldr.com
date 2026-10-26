@@ -1436,3 +1436,9 @@
 50244144 skipped off-topic, news
 50244744 skipped off-topic, animal research
 50242957 skipped duplicate of anthropic-s-1-ipo-filing
+50246658 posted qwen38-flash-next-beijing-upload-attempt
+50245945 skipped product release announcement
+50247453 skipped product landing blog, little to summarize
+50247630 skipped off-topic, AI human-interest
+50245135 skipped off-topic, economics
+50247602 skipped off-topic, spam
