@@ -1420,3 +1420,7 @@
 50242555 skipped off-topic, essay on writing
 50241924 skipped bare product/blog page, low points
 50239870 skipped off-topic, gaming news
+50243646 skipped off-topic, iPad product page
+50243061 skipped off-topic, Apple hardware
+50242843 skipped off-topic, AI labor research news
+50241925 posted pharo-14-rise-of-new-tools-and-risc-v-jit
