@@ -1427,3 +1427,12 @@
 50245138 skipped course promo, little to summarize
 50245524 skipped off-topic, Microsoft layoffs business news
 50245385 skipped off-topic, energy
+50236681 posted esp32-s3-simd-fast-corner-detector
+50243762 skipped off-topic, politics
+50245831 skipped off-topic, CSS-Tricks ownership news
+50244735 skipped bare repo landing page
+50245322 skipped off-topic, sports betting
+50244583 skipped bare repo, little to summarize
+50244144 skipped off-topic, news
+50244744 skipped off-topic, animal research
+50242957 skipped duplicate of anthropic-s-1-ipo-filing
