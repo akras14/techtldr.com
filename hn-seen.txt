@@ -1491,3 +1491,5 @@
 50250087 skipped off-topic
 50244410 skipped off-topic
 50239041 skipped bare product page
+50251127 skipped off-topic product page
+50251062 skipped off-topic
