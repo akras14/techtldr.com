@@ -35,3 +35,5 @@ An independent research team (Cyberdione Labs, not affiliated with or paid by Ta
 4. Restrict connector entitlements and add default-deny egress on connector namespaces.
 5. Respond to incidents by deleting the device at the control plane; reimaging a host doesn't revoke a stolen node key.
 6. Self-hosted headscale: set memory limits and rate-limit registration.
+
+**Also covered by:** [Tailscale, "Tailscale SSH: Investigation and remediation update"](https://tailscale.com/ssh-investigation-update) (Oct 26; [HN](https://news.ycombinator.com/item?id=50264857)). The vendor confirms "serious" Tailscale SSH privilege-escalation issues: someone already authorized to connect may exceed their configured local user's permissions. Fixes for most issues are implemented, with a patched client targeted for the end of Oct 27, and a security advisory and technical post to follow. Tailscale does not recommend disabling Tailscale SSH outright; interim advice is to tighten SSH access policies and set `TS_SSH_DISABLE_FORWARDING=1` in the tailscaled environment, which it says mitigates several of the more serious findings.
