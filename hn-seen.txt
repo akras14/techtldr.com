@@ -1507,3 +1507,6 @@
 50254836 skipped bare listing page
 50253939 skipped page unreadable
 50249872 skipped bare repo page
+50255298 skipped thin opinion piece
+50254935 skipped off-topic
+50255406 skipped off-topic theory math preprint
