@@ -1525,3 +1525,6 @@
 50257325 posted ai-promised-less-work
 50253512 skipped thin hardware/kernel news item
 50258521 skipped off-topic (MacBook Pro hardware)
+50259343 posted php2shell-wiz-attempts-incomplete
+50258868 posted here-be-monsters-agents-engineers
+50259406 skipped thin privacy FAQ page
