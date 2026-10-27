@@ -1524,3 +1524,4 @@
 50257419 posted python-jit-removal
 50257325 posted ai-promised-less-work
 50253512 skipped thin hardware/kernel news item
+50258521 skipped off-topic (MacBook Pro hardware)
