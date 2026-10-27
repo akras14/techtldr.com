@@ -1542,3 +1542,9 @@
 50261352 skipped off-topic (Apple hardware)
 50261784 skipped off-topic (politics)
 50260960 skipped off-topic (crime news)
+50261998 posted ghostty-1-4-kitty-graphics-security
+50261647 posted lean-classification-finite-simple-groups
+50260619 posted video-as-javascript-function
+50261819 skipped off-topic (police AI traffic stops)
+50262668 skipped off-topic (politics/intelligence)
+50259598 skipped opinion with little to summarize
