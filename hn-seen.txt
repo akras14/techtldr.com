@@ -1564,3 +1564,6 @@
 50260571 skipped bare product landing page
 50262950 skipped off-topic (schools)
 50261623 skipped off-topic (news philosophy)
+50265128 posted four-months-zig-vs-rust
+50265609 skipped off-topic (life sciences case studies)
+50265594 skipped thin hardware rumor
