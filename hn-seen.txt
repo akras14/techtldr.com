@@ -1535,3 +1535,10 @@
 50258574 skipped off-topic (politics, data-center donations)
 50260242 skipped off-topic (polling)
 50259271 skipped off-topic (health)
+50261319 posted genie-4-world-model
+50260714 posted jetbrains-terminal-libghostty
+50260814 skipped off-topic (copyright lawsuit campus piece)
+50260526 skipped off-topic (finance)
+50261352 skipped off-topic (Apple hardware)
+50261784 skipped off-topic (politics)
+50260960 skipped off-topic (crime news)
