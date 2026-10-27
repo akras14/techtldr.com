@@ -1528,3 +1528,10 @@
 50259343 posted php2shell-wiz-attempts-incomplete
 50258868 posted here-be-monsters-agents-engineers
 50259406 skipped thin privacy FAQ page
+50255159 posted claude-model-refutes-eth-3sat
+50259604 skipped off-topic (surveillance politics)
+50258538 skipped off-topic (Apple hardware)
+50259050 skipped off-topic (paywalled Reuters, spy company politics)
+50258574 skipped off-topic (politics, data-center donations)
+50260242 skipped off-topic (polling)
+50259271 skipped off-topic (health)
