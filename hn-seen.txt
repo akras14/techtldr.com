@@ -1548,3 +1548,9 @@
 50261819 skipped off-topic (police AI traffic stops)
 50262668 skipped off-topic (politics/intelligence)
 50259598 skipped opinion with little to summarize
+50262229 posted liquid-lfm3-1-7b-agents-edge
+50261589 skipped old (Jul 2026) secondhand report of Bloomberg
+50261583 skipped vendor marketing, covered by php2shell posts
+50262942 skipped off-topic (politics)
+50258614 skipped off-topic (health)
+50257448 skipped off-topic (Microsoft buyouts, duplicate of 50250937)
