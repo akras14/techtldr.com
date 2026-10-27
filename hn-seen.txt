@@ -1504,3 +1504,5 @@
 50249916 skipped off-topic essay on AI alignment, little to summarize
 50253750 skipped off-topic
 50253630 skipped off-topic paywall
+50254836 skipped bare listing page
+50253939 skipped page unreadable
