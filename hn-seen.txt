@@ -1500,3 +1500,5 @@
 50251355 skipped off-topic
 50252008 skipped niche ColdFusion admin how-to
 50242884 skipped subreddit moderation drama, secondary coverage
+50253529 skipped bare repo landing page
+50249916 skipped off-topic essay on AI alignment, little to summarize
