@@ -1518,3 +1518,6 @@
 50256230 skipped off-topic
 50251896 skipped thin product page, no readable content
 50245821 skipped paywalled
+50257548 posted old-software-was-worse
+50256952 posted gforth-1-0
+50257326 skipped off-topic (Wikipedia AI cleanup interview)
