@@ -1521,3 +1521,6 @@
 50257548 posted old-software-was-worse
 50256952 posted gforth-1-0
 50257326 skipped off-topic (Wikipedia AI cleanup interview)
+50257419 posted python-jit-removal
+50257325 posted ai-promised-less-work
+50253512 skipped thin hardware/kernel news item
