@@ -1502,3 +1502,5 @@
 50242884 skipped subreddit moderation drama, secondary coverage
 50253529 skipped bare repo landing page
 50249916 skipped off-topic essay on AI alignment, little to summarize
+50253750 skipped off-topic
+50253630 skipped off-topic paywall
