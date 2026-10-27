@@ -1506,3 +1506,4 @@
 50253630 skipped off-topic paywall
 50254836 skipped bare listing page
 50253939 skipped page unreadable
+50249872 skipped bare repo page
