@@ -1582,3 +1582,4 @@
 50267890 skipped off-topic (housing)
 50266719 posted anthropic-drops-coding-interview-junior-engineers
 50266046 skipped off-topic (astronomy)
+50269651 skipped bare methodology page
