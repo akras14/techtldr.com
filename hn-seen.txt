@@ -1588,3 +1588,8 @@
 50266910 skipped interactive research page, little to summarize
 50270764 skipped off-topic (economics)
 50271032 skipped off-topic (news)
+50271088 posted perfect-hash-cpp-lookup-tables
+50263967 posted popcorn-1-0-elixir-browser-otp-beam
+50271640 skipped duplicate of emudhra-intermediate-ca-keys-compromised (added as also-covered)
+50271457 skipped off-topic (culture)
+50265697 skipped off-topic (science)
