@@ -1569,3 +1569,7 @@
 50265594 skipped thin hardware rumor
 50263325 skipped off-topic (police AI stops)
 50261579 skipped off-topic (fonts)
+50265413 skipped funding announcement, thin
+50266780 skipped off-topic (product reviews)
+50262982 skipped off-topic (butterflies)
+50259643 skipped off-topic (gaming)
