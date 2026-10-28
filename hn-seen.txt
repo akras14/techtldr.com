@@ -1615,3 +1615,8 @@
 50271808 skipped no url
 50275235 skipped off-topic (climate)
 50273201 skipped bare product landing page
+50276792 posted gemini-4-carbon-cyber-defenders-first
+50275375 posted gitee-7m-repos-26400-live-secrets
+50276940 skipped off-topic (Apple hardware)
+50275128 skipped off-topic (speech model release blog)
+50275081 skipped off-topic (politics/climate)
