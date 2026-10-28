@@ -1635,3 +1635,8 @@
 50281044 skipped off-topic (hardware product)
 50277755 skipped off-topic (science)
 50272479 skipped off-topic (ML research)
+50280722 posted pdf-aes-256-weak-keys
+50281902 skipped off-topic (unverifiable viral tweet)
+50280662 skipped off-topic (politics)
+50276235 skipped off-topic (hardware market)
+50273753 skipped off-topic (gaming)
