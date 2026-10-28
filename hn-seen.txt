@@ -1629,3 +1629,9 @@
 50275887 skipped off-topic (politics)
 50268266 skipped off-topic (consumer privacy)
 50280197 skipped off-topic (earnings pdf)
+50278754 posted data-center-water-chile-uruguay-brazil
+50280864 skipped off-topic (politics)
+50280178 skipped off-topic (AI incident)
+50281044 skipped off-topic (hardware product)
+50277755 skipped off-topic (science)
+50272479 skipped off-topic (ML research)
