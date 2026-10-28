@@ -1624,3 +1624,7 @@
 50277166 skipped off-topic (Apple hardware)
 50276906 skipped off-topic (culture/politics)
 50276883 skipped bare product landing page
+50279308 skipped off-topic (health)
+50278970 skipped off-topic (news)
+50275887 skipped off-topic (politics)
+50268266 skipped off-topic (consumer privacy)
