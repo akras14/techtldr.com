@@ -1682,3 +1682,9 @@
 50287255 skipped off-topic (farming game)
 50286738 skipped off-topic (AI fake paper human-interest)
 50289418 posted mistral-large-4-open-weights
+50289162 posted good-developers-wary-agentic-development
+50289859 skipped duplicate of off-topic DoorDash/Instacart
+50290170 skipped off-topic (Google trees Finland)
+50290283 skipped off-topic (AI stats marketing study)
+50289692 skipped off-topic (Proton internal drama, 404media likely paywalled)
+50282504 skipped off-topic (health)
