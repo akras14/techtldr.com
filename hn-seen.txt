@@ -1681,3 +1681,4 @@
 50286987 posted php2shell-chain-rooted-25-firewalls
 50287255 skipped off-topic (farming game)
 50286738 skipped off-topic (AI fake paper human-interest)
+50289418 posted mistral-large-4-open-weights
