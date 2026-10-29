@@ -1710,3 +1710,8 @@
 50293023 skipped off-topic (walking)
 50293546 skipped off-topic (AO3 maintenance)
 50294506 skipped bare repo (Mac dialog dismiss tool)
+50287647 posted ubuntu-tcp-synack-uaf-cve-2026-98432
+50294507 skipped opinion essay, no concrete content
+50292727 skipped product opinion post
+50293562 skipped off-topic (politics)
+50293308 skipped bare repo (LYNX DAW)
