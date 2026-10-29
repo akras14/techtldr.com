@@ -1666,3 +1666,5 @@
 50282094 skipped off-topic (airport tipping)
 50285714 skipped off-topic (Cuba DST)
 50285319 posted edge-logic-bug-full-chain-pwn2own
+50285452 posted android-sms-of-death-wap-push-dos
+50271756 skipped blocked (Akamai access denied)
