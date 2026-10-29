@@ -1654,3 +1654,7 @@
 50282538 skipped off-topic (XR glasses product)
 50281826 skipped off-topic (opinion piece)
 50277498 skipped off-topic (gaming news)
+50284089 skipped off-topic (carbon inequality)
+50275640 skipped no URL
+50283488 skipped off-topic (textile electronics)
+50273416 skipped hobby anecdote, little to summarize
