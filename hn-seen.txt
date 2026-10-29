@@ -1648,3 +1648,8 @@
 50278253 skipped ml research, not read in full
 50274300 skipped show hn project blog
 50282650 skipped off-topic (apple product)
+50282838 posted qwenputer-riscv-cpu-in-qwen-weights
+50282865 posted microzig-no-llm-policy
+50282766 skipped off-topic (NYT cooking app)
+50282538 skipped off-topic (XR glasses product)
+50281826 skipped off-topic (opinion piece)
