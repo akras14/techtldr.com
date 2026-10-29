@@ -1640,3 +1640,5 @@
 50280662 skipped off-topic (politics)
 50276235 skipped off-topic (hardware market)
 50273753 skipped off-topic (gaming)
+50280974 skipped off-topic (health)
+50279386 skipped off-topic (history)
