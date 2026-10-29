@@ -1662,3 +1662,5 @@
 50284329 skipped off-topic (sports)
 50284342 skipped off-topic (Zillow settlement)
 50271004 skipped Ask HN
+50285154 skipped off-topic (essay on post-AI society)
+50282094 skipped off-topic (airport tipping)
