@@ -1676,3 +1676,8 @@
 50287448 skipped off-topic (Google Earth names, 2008)
 50287919 skipped off-topic (DoorDash/Instacart)
 50287599 skipped no substance (NetBSD atto toot)
+50288019 skipped duplicate of gemini-4-carbon-cyber-defenders-first
+50288867 skipped off-topic (MLK FBI letter)
+50286987 posted php2shell-chain-rooted-25-firewalls
+50287255 skipped off-topic (farming game)
+50286738 skipped off-topic (AI fake paper human-interest)
