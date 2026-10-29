@@ -1721,3 +1721,8 @@
 50295112 skipped off-topic (tweet, hiring opinion)
 50294486 skipped off-topic (biology preprint)
 50295893 skipped off-topic (Reddit login policy)
+50296486 posted minecraft-mindustry-agent-swarms
+50295883 skipped off-topic (Polymarket hack tweet)
+50295821 skipped bare product landing page (ElementaryUI)
+50293115 skipped bare repo (Overtone)
+50295868 skipped bare project landing page (Sylphide OS)
