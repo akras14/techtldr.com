@@ -1642,3 +1642,9 @@
 50273753 skipped off-topic (gaming)
 50280974 skipped off-topic (health)
 50279386 skipped off-topic (history)
+50282544 posted alpine-gitlab-ruby-regex-incident
+50279722 posted github-7-4b-commits-september
+50282454 skipped data query page, no article
+50278253 skipped ml research, not read in full
+50274300 skipped show hn project blog
+50282650 skipped off-topic (apple product)
