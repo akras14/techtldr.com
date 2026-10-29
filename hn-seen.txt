@@ -1703,3 +1703,10 @@
 50290324 skipped off-topic (opinion)
 50286306 skipped no URL (Tell HN)
 50291421 skipped off-topic (ANSI art archive)
+50294702 skipped off-topic (obituary)
+50294770 skipped duplicate of off-topic obituary
+50293047 skipped off-topic (politics)
+50293879 skipped off-topic (Kalshi gambling)
+50293023 skipped off-topic (walking)
+50293546 skipped off-topic (AO3 maintenance)
+50294506 skipped bare repo (Mac dialog dismiss tool)
