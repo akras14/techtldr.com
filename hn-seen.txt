@@ -1688,3 +1688,11 @@
 50290283 skipped off-topic (AI stats marketing study)
 50289692 skipped off-topic (Proton internal drama, 404media likely paywalled)
 50282504 skipped off-topic (health)
+50290912 posted nvl72-rack-aware-scheduling
+50290668 skipped off-topic (EVs)
+50291054 skipped old (2016) video codec explainer
+50291945 skipped off-topic (Alphabet revenue)
+50290177 skipped off-topic (writing style essay)
+50289590 skipped bare repo
+50289321 skipped off-topic (economy)
+50286924 skipped off-topic (politics, paywall)
