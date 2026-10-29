@@ -1715,3 +1715,9 @@
 50292727 skipped product opinion post
 50293562 skipped off-topic (politics)
 50293308 skipped bare repo (LYNX DAW)
+50296470 skipped off-topic (crypto hack, explorer page)
+50295450 skipped bare repo (tinyworldformer)
+50296272 skipped off-topic (crypto hack, tweet)
+50295112 skipped off-topic (tweet, hiring opinion)
+50294486 skipped off-topic (biology preprint)
+50295893 skipped off-topic (Reddit login policy)
