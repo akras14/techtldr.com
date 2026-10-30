@@ -1763,3 +1763,7 @@
 50299212 skipped off-topic (AI economics essay)
 50295488 skipped routine browser release notes
 50295248 skipped off-topic (human-interest)
+50293979 posted claude-code-agent-pentagon-network
+50304006 skipped off-topic (politics)
+50302925 skipped off-topic (education)
+50303571 skipped off-topic (science)
