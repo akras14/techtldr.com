@@ -1742,3 +1742,8 @@
 50298318 skipped off-topic (literature)
 50296920 skipped off-topic (health essay)
 50299182 skipped duplicate of ubuntu-tcp-synack-uaf-cve-2026-98432
+50291116 skipped no url (Launch HN)
+50299004 skipped bare repo page
+50296367 skipped Ask HN
+50293459 skipped Ask HN
+50297336 skipped off-topic (opinion/culture)
