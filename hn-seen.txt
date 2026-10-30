@@ -1726,3 +1726,8 @@
 50295821 skipped bare product landing page (ElementaryUI)
 50293115 skipped bare repo (Overtone)
 50295868 skipped bare project landing page (Sylphide OS)
+50296585 skipped off-topic (El Niño tides)
+50297089 skipped off-topic (Porco Rosso)
+50296947 skipped off-topic (Tom Sawyer)
+50296602 skipped duplicate of Proton AI story already seen
+50297037 skipped off-topic (Alphabet market value, economics)
