@@ -1804,3 +1804,8 @@
 50309647 skipped off-topic (culture)
 50309029 skipped off-topic (retro emulation)
 50306094 skipped off-topic (politics)
+50309534 skipped off-topic (AI and product managers opinion)
+50309314 skipped off-topic (culture)
+50309266 skipped off-topic (archaeology)
+50308986 skipped off-topic (culture)
+50310148 skipped off-topic (politics)
