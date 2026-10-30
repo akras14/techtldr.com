@@ -1755,3 +1755,5 @@
 50301983 skipped duplicate of claude-code-cursor-extension-ssh-backdoor
 50301462 skipped off-topic
 50301717 skipped off-topic (astronomy)
+50301854 posted azure-api-connections-cross-tenant-compromise
+50302814 skipped off-topic (politics)
