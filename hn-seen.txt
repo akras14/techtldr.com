@@ -1741,3 +1741,4 @@
 50298436 skipped bare product page
 50298318 skipped off-topic (literature)
 50296920 skipped off-topic (health essay)
+50299182 skipped duplicate of ubuntu-tcp-synack-uaf-cve-2026-98432
