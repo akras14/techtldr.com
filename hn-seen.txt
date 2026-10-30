@@ -1750,3 +1750,8 @@
 50300618 skipped bare product landing page
 50300853 skipped live blog, crypto news
 50301373 skipped off-topic (consumer gadget)
+50300683 posted claude-code-cursor-extension-ssh-backdoor
+50302334 skipped duplicate of claude-code-cursor-extension-ssh-backdoor
+50301983 skipped duplicate of claude-code-cursor-extension-ssh-backdoor
+50301462 skipped off-topic
+50301717 skipped off-topic (astronomy)
