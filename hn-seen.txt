@@ -1747,3 +1747,4 @@
 50296367 skipped Ask HN
 50293459 skipped Ask HN
 50297336 skipped off-topic (opinion/culture)
+50300618 skipped bare product landing page
