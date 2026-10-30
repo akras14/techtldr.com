@@ -1749,3 +1749,4 @@
 50297336 skipped off-topic (opinion/culture)
 50300618 skipped bare product landing page
 50300853 skipped live blog, crypto news
+50301373 skipped off-topic (consumer gadget)
