@@ -1774,3 +1774,11 @@
 50305272 skipped off-topic (politics)
 50303488 skipped off-topic (science)
 50304280 skipped video
+50305693 posted ai-sre-deskilling-ironies-of-automation
+50305573 posted tangled-federated-code-forge-launch
+50300011 posted curl-accidentally-turing-complete
+50305436 skipped off-topic (health)
+50305480 skipped off-topic (crypto hack)
+50305225 skipped off-topic (crypto/finance)
+50305601 skipped bare product announcement (font)
+50306008 skipped off-topic (stocks)
