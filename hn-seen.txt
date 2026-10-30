@@ -1737,3 +1737,6 @@
 50296234 skipped off-topic (crypto hack, etherscan page)
 50295611 skipped off-topic (Reddit login)
 50294287 skipped paywall, off-topic (Polymarket)
+50298964 skipped thin github discussion, minor
+50298436 skipped bare product page
+50298318 skipped off-topic (literature)
