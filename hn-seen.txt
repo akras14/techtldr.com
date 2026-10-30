@@ -1731,3 +1731,9 @@
 50296947 skipped off-topic (Tom Sawyer)
 50296602 skipped duplicate of Proton AI story already seen
 50297037 skipped off-topic (Alphabet market value, economics)
+50297697 skipped bare repo landing page
+50295332 skipped off-topic (Tesla)
+50296328 skipped off-topic (crypto exchange hack)
+50296234 skipped off-topic (crypto hack, etherscan page)
+50295611 skipped off-topic (Reddit login)
+50294287 skipped paywall, off-topic (Polymarket)
