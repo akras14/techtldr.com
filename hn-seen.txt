@@ -1842,3 +1842,5 @@
 50313661 skipped off-topic (digital minimalism essay)
 50314654 skipped off-topic (politics/science)
 50314243 skipped off-topic (PC power button)
+50315047 skipped off-topic (French internet traffic tax, politics)
+50314666 skipped thin forum post (Molly not updated)
