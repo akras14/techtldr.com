@@ -1836,3 +1836,4 @@
 50312739 skipped off-topic (surveillance news)
 50307092 skipped no URL
 50311505 skipped off-topic (car design)
+50312174 skipped no URL (Tell HN)
