@@ -1838,3 +1838,5 @@
 50311505 skipped off-topic (car design)
 50312174 skipped no URL (Tell HN)
 50303832 skipped off-topic (DJ app Show HN)
+50314085 posted gcc-switch-lowering-jump-tables-bitsets
+50313661 skipped off-topic (digital minimalism essay)
