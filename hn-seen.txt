@@ -1821,3 +1821,8 @@
 50310431 skipped off-topic (markets)
 50309470 skipped off-topic (culture)
 50306361 skipped secondary source, off-topic
+50311311 posted anthropic-expected-junk-rating-blackstone
+50307219 skipped duplicate of anthropic-expected-junk-rating-blackstone
+50311686 skipped off-topic (TV game)
+50305218 skipped bare product page
+50305724 skipped off-topic (satire)
