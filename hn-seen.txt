@@ -1835,3 +1835,4 @@
 50312922 skipped paywall (WSJ)
 50312739 skipped off-topic (surveillance news)
 50307092 skipped no URL
+50311505 skipped off-topic (car design)
