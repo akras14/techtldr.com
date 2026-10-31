@@ -1831,3 +1831,7 @@
 50310689 posted fat32-fallocate-265x-linux-7-4
 50309904 skipped off-topic (DDG search link, RAM opinion)
 50306815 skipped bare repo page
+50312756 skipped no URL (Tell HN)
+50312922 skipped paywall (WSJ)
+50312739 skipped off-topic (surveillance news)
+50307092 skipped no URL
