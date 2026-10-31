@@ -1816,3 +1816,8 @@
 50310937 skipped CVE record, little to summarize
 50309194 skipped off-topic (FSF social media)
 50309479 skipped bare repo/Show HN
+50310040 skipped off-topic (politics)
+50309591 skipped off-topic (space)
+50310431 skipped off-topic (markets)
+50309470 skipped off-topic (culture)
+50306361 skipped secondary source, off-topic
