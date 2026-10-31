@@ -1850,3 +1850,15 @@
 50315990 skipped unreadable secondary source (India Today, blocked)
 50315574 skipped opinion/finance piece on Anthropic S-1, political
 50313127 skipped off-topic (Iceland knitter)
+50316531 posted volta-infostealer-llm-victim-ranking
+50316100 posted jepsen-particledb-1-1-4
+50315987 posted claude-game-cloning-refusals
+50316760 skipped not reviewed, lower rank (AI copyright legal)
+50317363 skipped off-topic (Casio watches)
+50318189 skipped off-topic (politics)
+50316103 skipped off-topic (delivery robot arrest)
+50315776 skipped off-topic (politics)
+50317429 skipped off-topic (Voyager)
+50318407 skipped off-topic (Flock politics)
+50314654 skipped off-topic (Serbia parliament)
+50309647 skipped off-topic (Picard)
