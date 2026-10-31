@@ -1840,3 +1840,5 @@
 50303832 skipped off-topic (DJ app Show HN)
 50314085 posted gcc-switch-lowering-jump-tables-bitsets
 50313661 skipped off-topic (digital minimalism essay)
+50314654 skipped off-topic (politics/science)
+50314243 skipped off-topic (PC power button)
