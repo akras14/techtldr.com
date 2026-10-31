@@ -1846,3 +1846,7 @@
 50314666 skipped thin forum post (Molly not updated)
 50314872 skipped off-topic (Wikipedia psychology)
 50314699 posted chatgpt-share-link-account-takeover
+50315226 posted prospero-coding-harness
+50315990 skipped unreadable secondary source (India Today, blocked)
+50315574 skipped opinion/finance piece on Anthropic S-1, political
+50313127 skipped off-topic (Iceland knitter)
