@@ -1826,3 +1826,5 @@
 50311686 skipped off-topic (TV game)
 50305218 skipped bare product page
 50305724 skipped off-topic (satire)
+50311537 skipped blocked page
+50305309 skipped off-topic (health)
