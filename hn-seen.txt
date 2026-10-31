@@ -1878,3 +1878,10 @@
 50313508 skipped off-topic (tools list)
 50313484 skipped off-topic (cruise)
 50310699 skipped off-topic (politics)
+50319143 skipped duplicate of ubuntu-tcp-synack-uaf-cve-2026-98432 (added Also covered by)
+50319510 skipped off-topic (product/novelty site)
+50317991 skipped off-topic (reddit employee complaint)
+50317331 skipped off-topic (hardware)
+50319358 skipped single unverified user complaint on X
+50318063 skipped off-topic (workforce opinion piece)
+50315782 skipped landing page (repo)
