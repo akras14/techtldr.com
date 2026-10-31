@@ -1891,3 +1891,5 @@
 50320028 skipped off-topic (language learning)
 50320003 skipped off-topic (CDE release)
 50314654 skipped off-topic (science/politics)
+50319563 skipped off-topic (culture)
+50314397 skipped blocked page (NVD)
