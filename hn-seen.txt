@@ -1844,3 +1844,5 @@
 50314243 skipped off-topic (PC power button)
 50315047 skipped off-topic (French internet traffic tax, politics)
 50314666 skipped thin forum post (Molly not updated)
+50314872 skipped off-topic (Wikipedia psychology)
+50314699 posted chatgpt-share-link-account-takeover
