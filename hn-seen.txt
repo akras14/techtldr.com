@@ -1906,3 +1906,5 @@
 50322155 skipped off-topic (local politics)
 50320588 skipped blocked page
 50321065 skipped paywall
+50322173 skipped off-topic (court case involving AI)
+50322022 skipped old paper (2024), abstract only
