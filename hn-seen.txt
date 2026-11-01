@@ -1916,3 +1916,5 @@
 50323731 skipped off-topic (travel booking)
 50323848 skipped bare repo landing page
 50323187 skipped off-topic (game design)
+50324388 skipped off-topic (travel)
+50324118 skipped off-topic (economics, paywall)
