@@ -1911,3 +1911,5 @@
 50321522 skipped off-topic (hardware simulator demo, little to summarize)
 50322169 skipped off-topic (novelty cassette file format, music)
 50321734 skipped off-topic (labor/culture)
+50323088 posted ai-cost-of-js-frameworks
+50318505 skipped off-topic (crypto hack news)
