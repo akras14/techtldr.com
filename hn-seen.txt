@@ -1922,3 +1922,9 @@
 50324703 skipped accusations against private individual
 50324371 skipped off-topic (domain trivia, 2018)
 50323112 skipped off-topic (personal essay)
+50324114 posted kwi-kde-terminal-libghostty
+50325662 skipped duplicate of minecraft-mindustry-agent-swarms
+50324533 skipped off-topic (privacy fine)
+50325454 skipped off-topic (ML theory)
+50325601 skipped off-topic (politics)
+50321436 skipped off-topic (math)
