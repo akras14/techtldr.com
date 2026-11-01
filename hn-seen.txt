@@ -1937,3 +1937,10 @@
 50325069 skipped off-topic (email essay)
 50326821 skipped bare product landing page
 50326530 skipped minor desktop release notes
+50327058 skipped off-topic (semiconductors)
+50327266 skipped reddit scam PSA, unverified
+50327650 skipped off-topic (culture)
+50326609 skipped off-topic (telecom)
+50325253 skipped bare repo landing page
+50319749 skipped off-topic (energy)
+50327240 skipped unverified leak on bare model page
