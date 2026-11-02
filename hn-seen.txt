@@ -1994,3 +1994,10 @@
 50330362 skipped off-topic
 50328893 skipped off-topic
 50328567 skipped no url
+50338747 posted posthog-leaves-duckdb-trino
+50336518 skipped off-topic
+50337454 skipped paywall
+50334240 skipped off-topic
+50338571 skipped off-topic
+50337716 skipped bare product landing page
+50337635 skipped off-topic
