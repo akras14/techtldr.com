@@ -2034,3 +2034,9 @@
 50341616 skipped off-topic
 50340992 skipped bare repo landing page
 50337431 skipped Ask HN
+50343515 skipped off-topic
+50340159 skipped off-topic
+50344181 skipped off-topic
+50343418 skipped off-topic
+50339940 skipped off-topic
+50341065 skipped paywall/blocked (Bloomberg)
