@@ -1976,3 +1976,7 @@
 50330353 posted proton-ai-manifesto-engineering
 50333877 skipped off-topic HN meta
 50334704 skipped bare Show HN landing page
+50335602 posted supermarket-fridge-attack-six-countries
+50335615 skipped duplicate of supermarket-fridge-attack-six-countries
+50335341 skipped off-topic
+50334372 skipped off-topic
