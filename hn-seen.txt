@@ -1974,3 +1974,5 @@
 50334038 posted china-ai-export-controls-announcement-48
 50333774 skipped off-topic
 50330353 posted proton-ai-manifesto-engineering
+50333877 skipped off-topic HN meta
+50334704 skipped bare Show HN landing page
