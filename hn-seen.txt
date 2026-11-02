@@ -1962,3 +1962,5 @@
 50331404 skipped advocacy dataset landing page
 50331402 skipped bare landing page
 50326721 skipped bare game landing page
+50331998 posted ai-writes-code-engineers-own-decisions
+50327416 posted chatgpt-mcp-tunnel-unlimited-chats-dev-workflow
