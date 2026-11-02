@@ -1959,3 +1959,6 @@
 50330253 skipped off-topic (culture opinion)
 50328293 skipped dead link (404)
 50325107 skipped off-topic (markets commentary)
+50331404 skipped advocacy dataset landing page
+50331402 skipped bare landing page
+50326721 skipped bare game landing page
