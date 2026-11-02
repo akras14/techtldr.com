@@ -1954,3 +1954,8 @@
 50328896 skipped ask hn
 50326727 skipped no url
 50329707 skipped off-topic (obituary)
+50330939 skipped off-topic (economics)
+50330456 skipped off-topic (economics commentary)
+50330253 skipped off-topic (culture opinion)
+50328293 skipped dead link (404)
+50325107 skipped off-topic (markets commentary)
