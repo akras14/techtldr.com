@@ -1964,3 +1964,7 @@
 50326721 skipped bare game landing page
 50331998 posted ai-writes-code-engineers-own-decisions
 50327416 posted chatgpt-mcp-tunnel-unlimited-chats-dev-workflow
+50331784 skipped too thin, three-sentence incident notice
+50329425 skipped blocked page
+50332086 skipped off-topic
+50332163 skipped off-topic
