@@ -2040,3 +2040,10 @@
 50343418 skipped off-topic
 50339940 skipped off-topic
 50341065 skipped paywall/blocked (Bloomberg)
+50341073 skipped paywall/blocked (Axios)
+50344919 skipped opinion piece
+50340619 skipped off-topic
+50344670 skipped off-topic
+50344222 skipped off-topic
+50340279 skipped video
+50340629 skipped off-topic
