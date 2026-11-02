@@ -2030,3 +2030,7 @@
 50342284 skipped paywall/blocked (CNBC access denied)
 50341502 skipped bare repo landing page
 50340612 skipped off-topic
+50342424 skipped paywall/blocked (FT)
+50341616 skipped off-topic
+50340992 skipped bare repo landing page
+50337431 skipped Ask HN
