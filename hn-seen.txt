@@ -2021,3 +2021,12 @@
 50337661 skipped off-topic
 50334263 skipped duplicate of proton-ai-manifesto-engineering
 50334421 skipped off-topic
+50341334 posted agentic-backdoors-pretraining-poisoning
+50340362 posted i-read-the-clankers-code
+50341028 skipped off-topic
+50341736 skipped off-topic
+50341462 skipped duplicate of ubuntu-tcp-synack-uaf-cve-2026-98432
+50340601 skipped off-topic
+50342284 skipped paywall/blocked (CNBC access denied)
+50341502 skipped bare repo landing page
+50340612 skipped off-topic
