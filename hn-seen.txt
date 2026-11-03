@@ -2047,3 +2047,5 @@
 50344222 skipped off-topic
 50340279 skipped video
 50340629 skipped off-topic
+50344958 posted anthropic-q3-growth-slowdown
+50344536 skipped joke landing page
